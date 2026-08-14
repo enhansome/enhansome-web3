@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T22:28:57Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7039
+            "stars": 7038
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-13T04:22:56Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10909
+            "stars": 10912
           }
         },
         {
@@ -572,7 +572,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T05:53:02Z",
+            "last_commit": "2026-08-14T07:06:27Z",
             "owner": "solana-playground",
             "repo": "solana-playground",
             "stars": 955
@@ -773,7 +773,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13918
+            "stars": 13917
           }
         },
         {
@@ -787,7 +787,7 @@
             "last_commit": "2026-06-18T05:08:13Z",
             "owner": "ethers-io",
             "repo": "ethers.js",
-            "stars": 8708
+            "stars": 8710
           }
         },
         {
@@ -829,7 +829,7 @@
             "last_commit": "2026-02-17T01:08:49Z",
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
-            "stars": 5998
+            "stars": 5997
           }
         },
         {
@@ -854,7 +854,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-28T17:10:49Z",
+            "last_commit": "2026-08-14T15:10:18Z",
             "owner": "solana-foundation",
             "repo": "solana-web3.js",
             "stars": 2749
@@ -885,7 +885,7 @@
             "last_commit": "2026-01-31T07:06:16Z",
             "owner": "coinbase",
             "repo": "onchainkit",
-            "stars": 1044
+            "stars": 1043
           }
         },
         {
@@ -966,10 +966,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:17:53Z",
+            "last_commit": "2026-08-14T18:01:26Z",
             "owner": "ProjectOpenSea",
             "repo": "seaport-js",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -983,7 +983,7 @@
             "last_commit": "2026-08-03T10:59:57Z",
             "owner": "0xa3k5",
             "repo": "web3icons",
-            "stars": 261
+            "stars": 263
           }
         },
         {
@@ -1196,10 +1196,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-13T21:02:04Z",
+            "last_commit": "2026-08-14T17:12:41Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27215
+            "stars": 27216
           }
         },
         {
@@ -1213,7 +1213,7 @@
             "last_commit": "2026-08-02T09:03:39Z",
             "owner": "Vectorized",
             "repo": "solady",
-            "stars": 3349
+            "stars": 3353
           }
         },
         {
@@ -1272,7 +1272,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:22:23Z",
+            "last_commit": "2026-08-14T19:42:50Z",
             "owner": "ava-labs",
             "repo": "avalanchego",
             "stars": 2356
@@ -1300,7 +1300,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T17:15:16Z",
+            "last_commit": "2026-08-14T10:29:57Z",
             "owner": "erpc",
             "repo": "erpc",
             "stars": 755
@@ -1438,7 +1438,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T21:21:41Z",
+            "last_commit": "2026-08-14T18:48:25Z",
             "owner": "paradigmxyz",
             "repo": "reth",
             "stars": 5740
@@ -1466,10 +1466,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:43:38Z",
+            "last_commit": "2026-08-14T04:02:45Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 581
+            "stars": 589
           }
         },
         {
@@ -1503,7 +1503,7 @@
             "last_commit": "2026-05-01T21:14:45Z",
             "owner": "ApeWorX",
             "repo": "web3.py",
-            "stars": 5520
+            "stars": 5519
           }
         },
         {
@@ -1576,7 +1576,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T21:21:53Z",
+            "last_commit": "2026-08-14T20:09:58Z",
             "owner": "ipsilon",
             "repo": "evmone",
             "stars": 974
@@ -1613,7 +1613,7 @@
             "last_commit": "2024-06-04T15:20:23Z",
             "owner": "scaffold-eth",
             "repo": "scaffold-eth",
-            "stars": 9040
+            "stars": 9039
           }
         },
         {
@@ -1627,7 +1627,7 @@
             "last_commit": "2024-06-19T14:27:22Z",
             "owner": "ethereum-boilerplate",
             "repo": "ethereum-boilerplate",
-            "stars": 4137
+            "stars": 4138
           }
         },
         {
@@ -1708,7 +1708,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:14:13Z",
+            "last_commit": "2026-08-14T19:13:46Z",
             "owner": "jellydn",
             "repo": "dapp-starter",
             "stars": 327
@@ -1849,7 +1849,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6341
+            "stars": 6343
           }
         },
         {
@@ -1959,7 +1959,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6341
+            "stars": 6343
           }
         },
         {
@@ -2158,24 +2158,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-11T20:42:57Z",
+            "last_commit": "2026-08-14T14:27:06Z",
             "owner": "cascade-protocol",
             "repo": "x402-proxy",
             "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MoltsPay",
-          "description": "Universal Payment Protocol (UPP) for AI agents that abstracts multiple underlying protocols (x402, MPP, PFS, Pre-Approval) into a single unified API. Supports 8 blockchains with protocol-specific optimizations and gasless payments. Node.js and Python SDKs available.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T11:26:58Z",
-            "owner": "Yaqing2023",
-            "repo": "moltspay",
-            "stars": 8
           }
         },
         {
@@ -2189,6 +2175,20 @@
             "last_commit": "2026-08-11T11:08:04Z",
             "owner": "up2itnow0822",
             "repo": "agent-wallet-sdk",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoltsPay",
+          "description": "Universal Payment Protocol (UPP) for AI agents that abstracts multiple underlying protocols (x402, MPP, PFS, Pre-Approval) into a single unified API. Supports 8 blockchains with protocol-specific optimizations and gasless payments. Node.js and Python SDKs available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:26:58Z",
+            "owner": "Yaqing2023",
+            "repo": "moltspay",
             "stars": 8
           }
         },
@@ -2262,7 +2262,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:55:27Z",
+            "last_commit": "2026-08-14T10:45:11Z",
             "owner": "kawacukennedy",
             "repo": "kuberna-labs",
             "stars": 49
@@ -2318,7 +2318,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T02:14:01Z",
+            "last_commit": "2026-08-14T04:40:01Z",
             "owner": "ulsreall",
             "repo": "web3-agent-kit",
             "stars": 18
@@ -2408,10 +2408,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T20:02:27Z",
+            "last_commit": "2026-08-14T18:03:35Z",
             "owner": "argotorg",
             "repo": "solidity",
-            "stars": 25705
+            "stars": 25704
           }
         },
         {
@@ -2425,7 +2425,7 @@
             "last_commit": "2026-08-05T12:23:49Z",
             "owner": "hyperledger",
             "repo": "fabric",
-            "stars": 16700
+            "stars": 16699
           }
         },
         {
@@ -2439,7 +2439,7 @@
             "last_commit": "2025-01-22T19:41:54Z",
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14945
+            "stars": 14943
           }
         },
         {
@@ -2450,10 +2450,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T21:22:13Z",
+            "last_commit": "2026-08-14T20:51:33Z",
             "owner": "MetaMask",
             "repo": "metamask-extension",
-            "stars": 13200
+            "stars": 13199
           }
         },
         {
@@ -2464,10 +2464,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:05:31Z",
+            "last_commit": "2026-08-14T20:56:29Z",
             "owner": "smartcontractkit",
             "repo": "chainlink",
-            "stars": 8237
+            "stars": 8236
           }
         },
         {
@@ -2478,10 +2478,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-13T14:29:20Z",
+            "last_commit": "2026-08-14T17:55:51Z",
             "owner": "blockscout",
             "repo": "blockscout",
-            "stars": 4634
+            "stars": 4635
           }
         },
         {
@@ -2492,7 +2492,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:11:09Z",
+            "last_commit": "2026-08-14T19:40:44Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
             "stars": 4380
@@ -2520,7 +2520,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:46:36Z",
+            "last_commit": "2026-08-14T15:43:00Z",
             "owner": "remix-project-org",
             "repo": "remix-project",
             "stars": 3038
@@ -2534,7 +2534,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:55:22Z",
+            "last_commit": "2026-08-14T09:40:36Z",
             "owner": "RabbyHub",
             "repo": "Rabby",
             "stars": 1879
@@ -2562,7 +2562,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T19:07:08Z",
+            "last_commit": "2026-08-14T13:15:16Z",
             "owner": "dappros",
             "repo": "ethora",
             "stars": 542
@@ -2743,7 +2743,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21515
+            "stars": 21517
           }
         },
         {
@@ -2770,7 +2770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:24:24.267Z",
+    "last_updated": "2026-08-14T20:58:15.613Z",
     "original_repository": "ahmet/awesome-web3",
     "original_repository_sha": "2bf6ba53a5a5e14ae1e23f4f774c36b4d35d39b5",
     "enhanced_repository": "enhansome/enhansome-web3",
