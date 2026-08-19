@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62893187,
             "language": null,
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127364556,
             "language": "Go",
             "last_commit": "2024-03-22T07:23:48Z",
             "owner": "yjjnls",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500124235,
             "language": null,
             "last_commit": "2026-03-01T07:09:19Z",
             "owner": "Anugrahsr",
             "repo": "Awesome-web3-Security",
-            "stars": 1618
+            "stars": 1619
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430532919,
             "language": null,
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 431089531,
             "language": null,
             "last_commit": "2025-01-06T14:19:12Z",
             "owner": "keep-starknet-strange",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144327211,
             "language": null,
             "last_commit": "2024-08-20T12:39:26Z",
             "owner": "crytic",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450556161,
             "language": null,
             "last_commit": "2024-10-17T20:13:46Z",
             "owner": "crisgarner",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576811495,
             "language": null,
             "last_commit": "2026-06-09T22:38:44Z",
             "owner": "4337Mafia",
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144639586,
             "language": null,
             "last_commit": "2022-08-18T16:42:41Z",
             "owner": "gianni-dalerta",
             "repo": "awesome-nft",
-            "stars": 974
+            "stars": 973
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383086796,
             "language": null,
             "last_commit": "2025-08-28T14:42:04Z",
             "owner": "arddluma",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52868893,
             "language": null,
             "last_commit": "2025-04-09T17:57:00Z",
             "owner": "bekatom",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 585234336,
             "language": null,
             "last_commit": "2025-03-07T12:11:09Z",
             "owner": "a16z",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 155226316,
             "language": null,
             "last_commit": "2024-07-22T11:21:11Z",
             "owner": "sky-ecosystem",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507231837,
             "language": null,
             "last_commit": "2024-01-11T17:08:00Z",
             "owner": "devtooligan",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 508847178,
             "language": null,
             "last_commit": "2023-10-31T00:40:43Z",
             "owner": "wevm",
@@ -220,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1088095777,
             "language": null,
             "last_commit": "2026-07-28T05:17:23Z",
             "owner": "xpaysh",
             "repo": "awesome-x402",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545639671,
             "language": null,
             "last_commit": "2026-02-04T14:54:22Z",
             "owner": "juancito-dev",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444114348,
             "language": null,
             "last_commit": "2026-06-30T13:51:49Z",
             "owner": "awesome-algorand",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 813926046,
             "language": null,
             "last_commit": "2025-04-02T02:46:41Z",
             "owner": "jmcph4",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155473823,
             "language": null,
             "last_commit": "2023-01-11T21:48:16Z",
             "owner": "spadebuilders",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 500586279,
             "language": null,
             "last_commit": "2025-02-28T00:23:42Z",
             "owner": "xmtp",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439546550,
             "language": null,
             "last_commit": "2024-09-24T11:02:55Z",
             "owner": "warengonzaga",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450571420,
             "language": null,
             "last_commit": "2023-03-28T10:13:54Z",
             "owner": "lucadonnoh",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438897789,
             "language": null,
             "last_commit": "2023-04-12T12:16:05Z",
             "owner": "bitruss",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 937545326,
             "language": null,
             "last_commit": "2025-06-06T07:55:46Z",
             "owner": "arminreiter",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671442623,
             "language": null,
             "last_commit": "2023-12-11T11:40:09Z",
             "owner": "attestate",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1267779330,
             "language": "Dockerfile",
             "last_commit": "2026-06-20T16:09:06Z",
             "owner": "polsolbridge",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1273683150,
             "language": null,
             "last_commit": "2026-06-18T19:09:56Z",
             "owner": "FlipZ3ro",
@@ -402,24 +430,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213596924,
             "language": null,
             "last_commit": "2026-04-17T14:53:43Z",
             "owner": "ceosvex",
             "repo": "awesome-web3-jobs",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "The Graph",
-          "description": "Curated list of awesome resources for The Graph.",
-          "children": []
         }
       ],
       "title": "Awesome List"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -428,11 +451,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14531737,
             "language": "Wikitext",
             "last_commit": "2026-08-17T21:33:24Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10920
+            "stars": 10922
           }
         },
         {
@@ -442,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18354202,
             "language": "TeX",
             "last_commit": "2025-02-26T11:00:49Z",
             "owner": "ethereum",
@@ -456,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414883301,
             "language": "TypeScript",
             "last_commit": "2026-07-13T15:55:28Z",
             "owner": "duneanalytics",
@@ -470,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117318374,
             "language": null,
             "last_commit": "2022-06-21T18:53:47Z",
             "owner": "takenobu-hs",
@@ -481,1770 +508,1887 @@
       "title": "Reference"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeFi Developer",
+              "description": "Curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378536025,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T23:17:39Z",
+                "owner": "OffcierCia",
+                "repo": "DeFi-Developer-Road-Map",
+                "stars": 10808
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blockend Developer",
+              "description": "Step By Step Roadmap for those who want to Learn Blockchain Development from Beginning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424896462,
+                "language": null,
+                "last_commit": "2022-06-03T12:25:50Z",
+                "owner": "envoy1084",
+                "repo": "blockend-developer-roadmap",
+                "stars": 402
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Developer Roadmap"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Embark",
+              "description": "The all-in-one developer platform for building and deploying decentralized applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36172821,
+                "language": "JavaScript",
+                "last_commit": "2024-07-30T14:41:38Z",
+                "owner": "embarklabs",
+                "repo": "embark",
+                "stars": 3771
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Brownie",
+              "description": "Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155913585,
+                "language": "C",
+                "last_commit": "2026-08-05T06:41:17Z",
+                "owner": "eth-brownie",
+                "repo": "brownie",
+                "stars": 2723
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ethereum Code Viewer",
+              "description": "View source of deployed Ethereum smart contracts in VS Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438402257,
+                "language": "TypeScript",
+                "last_commit": "2025-09-30T08:02:35Z",
+                "owner": "dethcrypto",
+                "repo": "dethcode",
+                "stars": 1371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solana Playground",
+              "description": "Online IDE to quickly develop and deploy Solana programs that runs on web browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483721519,
+                "language": "Rust",
+                "last_commit": "2026-08-19T02:01:20Z",
+                "owner": "solana-playground",
+                "repo": "solana-playground",
+                "stars": 955
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development Environment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tatum SDK",
+              "description": "Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277798274,
+                "language": "TypeScript",
+                "last_commit": "2026-06-08T12:32:12Z",
+                "owner": "tatumio",
+                "repo": "tatum-js",
+                "stars": 398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kryptokrona Kotlin SDK",
+              "description": "Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579217789,
+                "language": "Kotlin",
+                "last_commit": "2023-08-14T07:32:57Z",
+                "owner": "kryptokrona",
+                "repo": "kryptokrona-kotlin-sdk",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clanker Wallet",
+              "description": "Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1155425999,
+                "language": "Python",
+                "last_commit": "2026-04-30T12:34:15Z",
+                "owner": "almogdepaz",
+                "repo": "clanker-wallet",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AxonFi SDK",
+              "description": "Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1173397449,
+                "language": "TypeScript",
+                "last_commit": "2026-03-16T20:45:08Z",
+                "owner": "axonfi",
+                "repo": "sdk",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WalletLink",
+              "description": "Open protocol that lets users connect their mobile wallets to your DApp.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184357431,
+                "language": "TypeScript",
+                "last_commit": "2026-04-30T18:13:56Z",
+                "owner": "coinbase",
+                "repo": "coinbase-wallet-sdk",
+                "stars": 1758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmartWeave",
+              "description": "SmartWeave is smart contract protocol that allows developers to build permanent applications on top of Arweave.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258130661,
+                "language": "TypeScript",
+                "last_commit": "2022-06-23T11:52:46Z",
+                "owner": "ArweaveTeam",
+                "repo": "SmartWeave",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Router Protocol",
+              "description": "Router Protocol bridges different layer 1 and layer 2 blockchains, enabling seamless cross-chain liquidity migration in DeFi. It facilitates token transfers between chains and cross-chain execution of operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650371695,
+                "language": "Solidity",
+                "last_commit": "2023-06-07T14:30:40Z",
+                "owner": "router-resources",
+                "repo": "RouterProtocol",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chitin",
+              "description": "On-chain soul identity for AI agents on Base L2. W3C DID resolution (did:chitin), Soulbound Tokens (EIP-5192), ERC-8004 agent passports, verifiable certificates, and governance voting. (GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153908409,
+                "language": "Solidity",
+                "last_commit": "2026-02-09T20:16:19Z",
+                "owner": "chitin-id",
+                "repo": "chitin-contracts",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ophis",
+              "description": "Intent-based DEX aggregator (a CoW Protocol fork) for gasless, MEV-protected swaps across 11 chains, with an MCP server and SDK for AI agents. (GitHub · Docs)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1227168826,
+                "language": "Rust",
+                "last_commit": "2026-08-19T08:47:45Z",
+                "owner": "ophis-fi",
+                "repo": "ophis",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MolTrust",
+              "description": "Trust infrastructure for AI agents. W3C DID identity verification, reputation scoring, Ed25519-signed Verifiable Credentials, and Base blockchain anchoring. (SDK · PyPI · API Docs)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1160912505,
+                "language": "Python",
+                "last_commit": "2026-04-25T11:50:42Z",
+                "owner": "MoltyCel",
+                "repo": "moltrust-sdk",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Protocol"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "web3.js",
+              "description": "Ethereum JavaScript API which connects to the Generic JSON-RPC spec.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24655114,
+                "language": "TypeScript",
+                "last_commit": "2025-03-05T08:48:59Z",
+                "owner": "web3",
+                "repo": "web3.js",
+                "stars": 19920
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Truffle",
+              "description": "Development environment, testing framework and asset pipeline for Ethereum.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38267641,
+                "language": "TypeScript",
+                "last_commit": "2024-04-22T08:47:19Z",
+                "owner": "ConsenSys-archive",
+                "repo": "truffle",
+                "stars": 13915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethers.js",
+              "description": "Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63465664,
+                "language": "TypeScript",
+                "last_commit": "2026-06-18T05:08:13Z",
+                "owner": "ethers-io",
+                "repo": "ethers.js",
+                "stars": 8712
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "js-ipfs",
+              "description": "IPFS implementation in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20312497,
+                "language": "JavaScript",
+                "last_commit": "2023-05-25T17:13:28Z",
+                "owner": "ipfs",
+                "repo": "js-ipfs",
+                "stars": 7396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wagmi",
+              "description": "React hooks library for Ethereum.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430942608,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T15:58:57Z",
+                "owner": "wevm",
+                "repo": "wagmi",
+                "stars": 6743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BitcoinJS",
+              "description": "Bitcoin library for node.js and browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1701968,
+                "language": "JavaScript",
+                "last_commit": "2026-02-17T01:08:49Z",
+                "owner": "bitcoinjs",
+                "repo": "bitcoinjs-lib",
+                "stars": 5997
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web3-react",
+              "description": "Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 157421028,
+                "language": "TypeScript",
+                "last_commit": "2024-08-20T17:47:06Z",
+                "owner": "Uniswap",
+                "repo": "web3-react",
+                "stars": 5686
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solana-web3.js",
+              "description": "Solana Javascript API built on the Solana JSON RPC API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145759605,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T15:04:13Z",
+                "owner": "solana-foundation",
+                "repo": "solana-web3.js",
+                "stars": 2748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "starknet.js",
+              "description": "JavaScript library to interact with Starknet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418545583,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T13:34:10Z",
+                "owner": "starknet-io",
+                "repo": "starknet.js",
+                "stars": 1258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OnchainKit",
+              "description": "Collection of tools to build world-class onchain apps with CSS, React, and Typescript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730438594,
+                "language": "TypeScript",
+                "last_commit": "2026-01-31T07:06:16Z",
+                "owner": "coinbase",
+                "repo": "onchainkit",
+                "stars": 1043
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hashgraph Online Standards SDK",
+              "description": "TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942753326,
+                "language": "TypeScript",
+                "last_commit": "2026-05-08T13:40:09Z",
+                "owner": "hashgraph-online",
+                "repo": "standards-sdk",
+                "stars": 955
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tatum JavaScript SDK",
+              "description": "Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277798274,
+                "language": "TypeScript",
+                "last_commit": "2026-06-08T12:32:12Z",
+                "owner": "tatumio",
+                "repo": "tatum-js",
+                "stars": 398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "avalanchejs",
+              "description": "JavaScript Library for interfacing with the Avalanche Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235468439,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T20:40:27Z",
+                "owner": "ava-labs",
+                "repo": "avalanchejs",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sequence.js",
+              "description": "Sequence is modular web3 stack and smart wallet for Ethereum chains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243559939,
+                "language": "TypeScript",
+                "last_commit": "2026-07-27T18:31:09Z",
+                "owner": "0xsequence",
+                "repo": "sequence.js",
+                "stars": 317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "js-algorand-sdk",
+              "description": "AlgoSDK is the official JavaScript library for communicating with the Algorand network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168464345,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T21:14:55Z",
+                "owner": "algorand",
+                "repo": "js-algorand-sdk",
+                "stars": 298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seaport-js",
+              "description": "JavaScript library to interface with the Seaport marketplace.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469518968,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T07:55:47Z",
+                "owner": "ProjectOpenSea",
+                "repo": "seaport-js",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@web3icons/react",
+              "description": "Web3 icons as React components. Includes tokens, coins, networks, wallets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768276429,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T14:01:55Z",
+                "owner": "0xa3k5",
+                "repo": "web3icons",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dapparatus",
+              "description": "Reusable dApp components in React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141851646,
+                "language": "JavaScript",
+                "last_commit": "2022-12-08T20:41:59Z",
+                "owner": "austintgriffith",
+                "repo": "dapparatus",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ensjs",
+              "description": "Javascript bindings for the Ethereum Name Service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470429980,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:27:56Z",
+                "owner": "ensdomains",
+                "repo": "ensjs",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ipfs-mini",
+              "description": "Super tiny module for querying an IPFS node, that works in the browser and in Node.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76317361,
+                "language": "JavaScript",
+                "last_commit": "2022-06-08T22:22:19Z",
+                "owner": "SilentCicero",
+                "repo": "ipfs-mini",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lens.js",
+              "description": "Lens.js is JavaScript SDK or API wrapper for the Lens API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516655080,
+                "language": "TypeScript",
+                "last_commit": "2023-01-09T06:55:55Z",
+                "owner": "suhailkakar",
+                "repo": "lens.js",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "livepeer.js",
+              "description": "Livepeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 523021370,
+                "language": "TypeScript",
+                "last_commit": "2026-06-03T11:18:22Z",
+                "owner": "livepeer",
+                "repo": "ui-kit",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "signature-validator",
+              "description": "TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard EOA signatures, ERC-712.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488170638,
+                "language": "Solidity",
+                "last_commit": "2025-09-12T12:46:29Z",
+                "owner": "AmbireTech",
+                "repo": "signature-validator",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bee-js",
+              "description": "Javascript client library for connecting to Bee decentralised storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310355817,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:53:21Z",
+                "owner": "ethersphere",
+                "repo": "bee-js",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "notify",
+              "description": "JavaScript library for real time notifications for Ethereum transaction state changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193790611,
+                "language": "TypeScript",
+                "last_commit": "2023-01-27T04:46:03Z",
+                "owner": "blocknative",
+                "repo": "notify",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Avalanche Wallet SDK",
+              "description": "Typescript library to create and manage wallets on the Avalanche network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381382046,
+                "language": "TypeScript",
+                "last_commit": "2026-04-17T22:29:24Z",
+                "owner": "ava-labs",
+                "repo": "avalanche-wallet-sdk",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@kolirt/vue-web3-auth",
+              "description": "Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633157234,
+                "language": "TypeScript",
+                "last_commit": "2024-11-17T20:26:27Z",
+                "owner": "kolirt",
+                "repo": "vue-web3-auth",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@paritytech/bcts",
+              "description": "TypeSript library implementing common specifications for decentralized applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1107334275,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T04:55:10Z",
+                "owner": "paritytech",
+                "repo": "bcts",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "db3.js",
+              "description": "DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 584620577,
+                "language": "TypeScript",
+                "last_commit": "2023-07-01T01:05:25Z",
+                "owner": "dbpunk-labs",
+                "repo": "db3.js",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "attestate/crawler",
+              "description": "JavaScript library for retrieving on-chain storage and generating data derivatives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579018650,
+                "language": "JavaScript",
+                "last_commit": "2025-11-03T14:02:52Z",
+                "owner": "attestate",
+                "repo": "crawler",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Formo SDK",
+              "description": "Analytics and attribution SDK for onchain apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863911937,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T06:34:25Z",
+                "owner": "getformo",
+                "repo": "sdk",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenZeppelin",
+              "description": "The standard for secure blockchain applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64700934,
+                "language": "Solidity",
+                "last_commit": "2026-08-19T10:36:28Z",
+                "owner": "OpenZeppelin",
+                "repo": "openzeppelin-contracts",
+                "stars": 27219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solady",
+              "description": "Gas optimized Solidity Libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514706800,
+                "language": "Solidity",
+                "last_commit": "2026-08-17T10:44:09Z",
+                "owner": "Vectorized",
+                "repo": "solady",
+                "stars": 3360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Date and Time tools",
+              "description": "Contract which implements utilities for working with datetime values in ethereum.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43761944,
+                "language": "Python",
+                "last_commit": "2023-04-05T16:34:43Z",
+                "owner": "pipermerriam",
+                "repo": "ethereum-datetime",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CREATE2 Deployer",
+              "description": "Helper smart contract to make easier and safer usage of the EVM opcode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418509033,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:02:26Z",
+                "owner": "pcaversaccio",
+                "repo": "create2deployer",
+                "stars": 307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeFiMath",
+              "description": "Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 874283218,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T20:11:17Z",
+                "owner": "MerkleBlue",
+                "repo": "defimath",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Solidity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "avalanchego",
+              "description": "Go implementation of an Avalanche node.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246387644,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:05:37Z",
+                "owner": "ava-labs",
+                "repo": "avalanchego",
+                "stars": 2355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tss-lib",
+              "description": "This is an implementation of multi-party {t,n}-threshold ECDSA (Elliptic Curve Digital Signature Algorithm) based on Gennaro and Goldfeder CCS 2018 1 and EdDSA (Edwards-curve Digital Signature Algorithm)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186134447,
+                "language": "Go",
+                "last_commit": "2026-04-09T13:36:58Z",
+                "owner": "bnb-chain",
+                "repo": "tss-lib",
+                "stars": 1034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eRPC",
+              "description": "Open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796633002,
+                "language": "Go",
+                "last_commit": "2026-08-19T06:04:46Z",
+                "owner": "erpc",
+                "repo": "erpc",
+                "stars": 757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethereum-hdwallet",
+              "description": "Ethereum HD Wallet derivations from seed which implements the go-ethereum's accounts.Wallet interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139815027,
+                "language": "Go",
+                "last_commit": "2025-04-27T19:44:11Z",
+                "owner": "miguelmota",
+                "repo": "go-ethereum-hdwallet",
+                "stars": 553
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coreth",
+              "description": "Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 238316466,
+                "language": "Go",
+                "last_commit": "2025-11-25T20:09:08Z",
+                "owner": "ava-labs",
+                "repo": "coreth",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "avalanche-network-runner",
+              "description": "Tool to run and interact with an Avalanche network locally.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420221419,
+                "language": "Go",
+                "last_commit": "2026-04-03T22:25:43Z",
+                "owner": "ava-labs",
+                "repo": "avalanche-network-runner",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "subnet-cli",
+              "description": "CLI tool to manage Avalanche Subnets.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 448037999,
+                "language": "Go",
+                "last_commit": "2023-01-09T18:47:16Z",
+                "owner": "ava-labs",
+                "repo": "subnet-cli",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ava-sim",
+              "description": "Helper tool to spin up a local instance of an Avalanche network to interact with the standard APIs or to test a custom VM.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 414845862,
+                "language": "Go",
+                "last_commit": "2022-03-27T05:36:16Z",
+                "owner": "ava-labs",
+                "repo": "ava-sim",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smart Router",
+              "description": "Reliability and security layer for blockchain RPC that orchestrates multiple upstreams behind a single endpoint, with automatic failover, data cross-validation, block-aware caching, and observability across EVM and non-EVM networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139041505,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:55:27Z",
+                "owner": "Magma-Devs",
+                "repo": "smart-router",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Trust Wallet Core",
+              "description": "Cross-platform, mobile-focused library implementing low-level cryptographic wallet functionality for a high number of blockchains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170738310,
+                "language": "C++",
+                "last_commit": "2026-08-18T09:56:04Z",
+                "owner": "trustwallet",
+                "repo": "wallet-core",
+                "stars": 3557
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libethc",
+              "description": "Open-source Ethereum library in ANSI C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427675603,
+                "language": "C",
+                "last_commit": "2026-02-18T04:05:42Z",
+                "owner": "mhw0",
+                "repo": "libethc",
+                "stars": 72
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C/C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reth",
+              "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537233603,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:50:45Z",
+                "owner": "paradigmxyz",
+                "repo": "reth",
+                "stars": 5741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenEthereum",
+              "description": "The fast, light, and robust client for the Ethereum mainnet.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 283873079,
+                "language": "Rust",
+                "last_commit": "2022-05-23T19:01:30Z",
+                "owner": "openethereum",
+                "repo": "openethereum",
+                "stars": 1626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RustChain",
+              "description": "Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 970157421,
+                "language": "Python",
+                "last_commit": "2026-08-19T01:32:22Z",
+                "owner": "Scottcjn",
+                "repo": "Rustchain",
+                "stars": 628
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "browser-web3-signer",
+              "description": "Sign EVM and TRON transactions and messages with your own browser wallet (MetaMask, Rabby, TronLink) from the CLI or from Rust, TypeScript, and Go programs; the private key never leaves the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1285302353,
+                "language": "Rust",
+                "last_commit": "2026-08-07T09:13:58Z",
+                "owner": "nikicat",
+                "repo": "browser-web3-signer",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "web3.py",
+              "description": "Python interface for interacting with the Ethereum blockchain and ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56251096,
+                "language": "Python",
+                "last_commit": "2026-05-01T21:14:45Z",
+                "owner": "ApeWorX",
+                "repo": "web3.py",
+                "stars": 5521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vyper",
+              "description": "Contract-oriented, pythonic programming language that targets EVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73461676,
+                "language": "Python",
+                "last_commit": "2026-08-12T18:27:52Z",
+                "owner": "vyperlang",
+                "repo": "vyper",
+                "stars": 5179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "py-evm",
+              "description": "Ethereum protocol implementation in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 77478378,
+                "language": "Python",
+                "last_commit": "2025-09-08T15:31:46Z",
+                "owner": "ethereum",
+                "repo": "py-evm",
+                "stars": 2353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dexscraper",
+              "description": "Python SDK and CLI for extracting real-time DexScreener market data over WebSocket and API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 882474871,
+                "language": "Python",
+                "last_commit": "2026-04-30T21:25:09Z",
+                "owner": "vincentkoc",
+                "repo": "dexscraper",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "py-ethclient",
+              "description": "Python Ethereum L1 execution client built from scratch — EVM, RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1160065550,
+                "language": "Python",
+                "last_commit": "2026-03-01T16:03:40Z",
+                "owner": "tokamak-network",
+                "repo": "py-ethclient",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "evmone",
+              "description": "C++ implementation of the Ethereum Virtual Machine (EVM), faster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160548111,
+                "language": "C++",
+                "last_commit": "2026-08-19T11:45:38Z",
+                "owner": "ipsilon",
+                "repo": "evmone",
+                "stars": 974
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpacesVM",
+              "description": "SpacesVM enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 429542389,
+                "language": "Go",
+                "last_commit": "2023-03-07T02:07:11Z",
+                "owner": "ava-labs",
+                "repo": "spacesvm",
+                "stars": 83
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VMs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scaffold-eth",
+              "description": "Ethereum dev stack focused on fast product iterations.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 259354262,
+                "language": "CSS",
+                "last_commit": "2024-06-04T15:20:23Z",
+                "owner": "scaffold-eth",
+                "repo": "scaffold-eth",
+                "stars": 9041
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ethereum-boilerplate",
+              "description": "The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417141259,
+                "language": "TypeScript",
+                "last_commit": "2024-06-19T14:27:22Z",
+                "owner": "ethereum-boilerplate",
+                "repo": "ethereum-boilerplate",
+                "stars": 4139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "create-eth-app",
+              "description": "Create Ethereum-powered apps with one command, similar to create-react-app.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 233484109,
+                "language": "JavaScript",
+                "last_commit": "2024-04-10T08:13:43Z",
+                "owner": "WalletConnect",
+                "repo": "create-eth-app",
+                "stars": 2748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "useDApp",
+              "description": "Framework for rapid Dapp development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322542582,
+                "language": "TypeScript",
+                "last_commit": "2024-06-10T19:28:09Z",
+                "owner": "TrueFiEng",
+                "repo": "useDApp",
+                "stars": 1583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "create-web3-dapp",
+              "description": "The complete toolbox to create web3 applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519914628,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T11:06:22Z",
+                "owner": "alchemyplatform",
+                "repo": "create-web3-dapp",
+                "stars": 913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nexth",
+              "description": "Next.js + Ethereum starter kit to quickly ship Web3 Apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579172366,
+                "language": "TypeScript",
+                "last_commit": "2026-05-21T12:49:24Z",
+                "owner": "wslyvh",
+                "repo": "nexth",
+                "stars": 747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Turbo ETH",
+              "description": "Web3 App Template in Next.js 13, Tailwind, RainbowKit and Optimized Developer UX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583595113,
+                "language": "TypeScript",
+                "last_commit": "2024-05-03T14:06:27Z",
+                "owner": "turbo-eth",
+                "repo": "template-web3-app",
+                "stars": 385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dapp-starter-template",
+              "description": "Opinionated Dapp Starter Template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399182544,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:39:35Z",
+                "owner": "jellydn",
+                "repo": "dapp-starter",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "next-web3-boilerplate",
+              "description": "Boilerplate in TypeScript using Next.js, NextAuth.js, siwe, Web3modal, useDapp, next-i18next, reactMUI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506943497,
+                "language": "TypeScript",
+                "last_commit": "2022-06-24T10:20:30Z",
+                "owner": "SoxZz5",
+                "repo": "next-web3-boilerplate",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NextJs Web3 Template",
+              "description": "NextJS Typescript template with wallet integration + token gated pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060920485,
+                "language": "TypeScript",
+                "last_commit": "2025-09-26T15:53:29Z",
+                "owner": "abaker42",
+                "repo": "crypto-shelfy-template",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Boilerplate"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "solidity-coverage",
+              "description": "Code coverage for Solidity smart-contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89956848,
+                "language": "JavaScript",
+                "last_commit": "2025-12-11T19:32:00Z",
+                "owner": "sc-forks",
+                "repo": "solidity-coverage",
+                "stars": 1003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Waffle",
+              "description": "Library for writing and testing smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141097234,
+                "language": "TypeScript",
+                "last_commit": "2023-11-22T21:36:56Z",
+                "owner": "TrueFiEng",
+                "repo": "Waffle",
+                "stars": 961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openzeppelin-test-helpers",
+              "description": "Assertion library for Ethereum smart contract testing that you can use with hardhat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159831009,
+                "language": "JavaScript",
+                "last_commit": "2024-03-07T15:58:33Z",
+                "owner": "OpenZeppelin",
+                "repo": "openzeppelin-test-helpers",
+                "stars": 410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prb-test",
+              "description": "Modern collection of testing assertions and logging utilities for Solidity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513491801,
+                "language": "Solidity",
+                "last_commit": "2024-12-26T16:08:50Z",
+                "owner": "PaulRBerg",
+                "repo": "prb-test",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mock-contract",
+              "description": "Simple Solidity contract to mock dependent contracts in truffle tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144871228,
+                "language": "JavaScript",
+                "last_commit": "2022-02-21T18:27:44Z",
+                "owner": "gnosis",
+                "repo": "mock-contract",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robot Framework Solidity Testing Toolkit",
+              "description": "This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441409689,
+                "language": "HTML",
+                "last_commit": "2026-08-10T22:43:07Z",
+                "owner": "jg8481",
+                "repo": "Robot-Framework-Solidity-Testing-Toolkit",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slither",
+              "description": "Solidity static analysis framework, a suite of vulnerability detectors, prints visual information about contract details etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147583941,
+                "language": "Python",
+                "last_commit": "2026-08-12T22:56:04Z",
+                "owner": "crytic",
+                "repo": "slither",
+                "stars": 6345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solhint",
+              "description": "Solidity linter providing Security and Style Guide validations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107120334,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T13:28:54Z",
+                "owner": "protofire",
+                "repo": "solhint",
+                "stars": 1125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slippy",
+              "description": "Simple and powerful linter for Solidity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1025015763,
+                "language": "TypeScript",
+                "last_commit": "2025-12-22T14:05:48Z",
+                "owner": "slippy-lint",
+                "repo": "slippy",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Quality"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gun",
+              "description": "Small, easy, and fast protocol for syncing data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22475123,
+                "language": "JavaScript",
+                "last_commit": "2026-08-01T11:38:47Z",
+                "owner": "amark",
+                "repo": "gun",
+                "stars": 19119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OrbitDB",
+              "description": "Serverless, distributed, peer-to-peer database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48617634,
+                "language": "JavaScript",
+                "last_commit": "2026-05-14T14:56:57Z",
+                "owner": "orbitdb",
+                "repo": "orbitdb",
+                "stars": 8795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DB3",
+              "description": "DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473865424,
+                "language": "Rust",
+                "last_commit": "2024-07-29T15:58:05Z",
+                "owner": "dbpunk-labs",
+                "repo": "db3",
+                "stars": 385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeaveDB",
+              "description": "WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507174665,
+                "language": "JavaScript",
+                "last_commit": "2026-06-26T03:36:50Z",
+                "owner": "weavedb",
+                "repo": "weavedb",
+                "stars": 209
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slither",
+              "description": "A Solidity static analysis framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147583941,
+                "language": "Python",
+                "last_commit": "2026-08-12T22:56:04Z",
+                "owner": "crytic",
+                "repo": "slither",
+                "stars": 6345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mythril",
+              "description": "Open-source EVM bytecode security analysis tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103890505,
+                "language": "Python",
+                "last_commit": "2026-04-27T04:13:25Z",
+                "owner": "ConsenSysDiligence",
+                "repo": "mythril",
+                "stars": 4262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Manticore",
+              "description": "Symbolic execution tool on smart contracts and binaries.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 81612762,
+                "language": "Python",
+                "last_commit": "2026-06-24T16:28:22Z",
+                "owner": "trailofbits",
+                "repo": "manticore",
+                "stars": 3859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity security blog",
+              "description": "Comprehensive list of known attack vectors and common anti-patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135463860,
+                "language": null,
+                "last_commit": "2022-09-23T12:06:25Z",
+                "owner": "sigp",
+                "repo": "solidity-security-blog",
+                "stars": 1522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Oyente",
+              "description": "Alternative static smart contract security analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 85322085,
+                "language": "JavaScript",
+                "last_commit": "2023-01-19T05:35:00Z",
+                "owner": "enzymefinance",
+                "repo": "oyente",
+                "stars": 1339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solgraph",
+              "description": "Visualise Solidity control flow for smart contract security analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62669862,
+                "language": "JavaScript",
+                "last_commit": "2022-12-04T15:07:40Z",
+                "owner": "raineorshine",
+                "repo": "solgraph",
+                "stars": 1028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ethersplay",
+              "description": "EVM disassembler.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 107464076,
+                "language": "Python",
+                "last_commit": "2023-09-04T20:46:29Z",
+                "owner": "crytic",
+                "repo": "ethersplay",
+                "stars": 858
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evmdis",
+              "description": "Alternative EVM disassembler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62712255,
+                "language": "Go",
+                "last_commit": "2022-05-09T03:43:06Z",
+                "owner": "Arachnid",
+                "repo": "evmdis",
+                "stars": 566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EVMole",
+              "description": "Extracts function selectors from EVM bytecode, even for unverified contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723294223,
+                "language": "Rust",
+                "last_commit": "2026-08-15T11:03:46Z",
+                "owner": "cdump",
+                "repo": "evmole",
+                "stars": 458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CryptoFin Solidity Auditing Checklist",
+              "description": "A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137932038,
+                "language": null,
+                "last_commit": "2023-03-06T15:58:19Z",
+                "owner": "cryptofinlabs",
+                "repo": "audit-checklist",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hydra",
+              "description": "Framework for cryptoeconomic contract security, decentralised security bounties.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109271753,
+                "language": "Haskell",
+                "last_commit": "2018-03-02T15:03:45Z",
+                "owner": "IC3Hydra",
+                "repo": "Hydra",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solc-verify",
+              "description": "A modular verifier for Solidity smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157957839,
+                "language": "C++",
+                "last_commit": "2023-09-05T16:46:45Z",
+                "owner": "SRI-CSL",
+                "repo": "solidity",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TRONSEC",
+              "description": "Client-side TRON security toolkit: wallet analysis, AML heuristics, contract scanning, transaction decoding, and phishing URL checks. No wallet connection required. Source.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1274136996,
+                "language": "JavaScript",
+                "last_commit": "2026-07-18T10:44:03Z",
+                "owner": "jamejohns",
+                "repo": "tronsec",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adelaide",
+              "description": "The SECBIT static analysis extension to Solidity compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142675539,
+                "language": "C++",
+                "last_commit": "2019-01-31T11:08:25Z",
+                "owner": "sec-bit",
+                "repo": "adelaide",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Risk Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "x402-proxy",
+              "description": "for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1179299217,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T14:27:06Z",
+                "owner": "cascade-protocol",
+                "repo": "x402-proxy",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@up2itnow0822/agent-wallet-sdk",
+              "description": "TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1160557878,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T11:08:19Z",
+                "owner": "up2itnow0822",
+                "repo": "agent-wallet-sdk",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MoltsPay",
+              "description": "Universal Payment Protocol (UPP) for AI agents that abstracts multiple underlying protocols (x402, MPP, PFS, Pre-Approval) into a single unified API. Supports 8 blockchains with protocol-specific optimizations and gasless payments. Node.js and Python SDKs available.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157625665,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T11:26:58Z",
+                "owner": "Yaqing2023",
+                "repo": "moltspay",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Signet CLI",
+              "description": "CLI and SDK for Signet, an onchain advertising platform on Base. Enables AI agents to purchase spotlight ads with USDC via the x402 payment protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153211536,
+                "language": "JavaScript",
+                "last_commit": "2026-02-15T17:42:52Z",
+                "owner": "h1-hunt",
+                "repo": "signet-client",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arch Tools",
+              "description": "The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171031623,
+                "language": "HTML",
+                "last_commit": "2026-08-12T05:13:19Z",
+                "owner": "Deesmo",
+                "repo": "Arch-AI-Tools",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentServices",
+              "description": "54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, and on-chain analytics. 41 x402-paid endpoints ($0.01-$0.05/call, USDC on Base). Remote MCP server, cloud-hosted.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1284628499,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:10:01Z",
+                "owner": "vbkotecha",
+                "repo": "agentservices-api",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "x402 Payments Protocol"
+        }
+      ],
       "title": "Software Development"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeFi Developer",
-          "description": "Curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blockend Developer",
-          "description": "Step By Step Roadmap for those who want to Learn Blockchain Development from Beginning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-06-03T12:25:50Z",
-            "owner": "envoy1084",
-            "repo": "blockend-developer-roadmap",
-            "stars": 402
-          }
-        }
-      ],
-      "title": "Developer Roadmap"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Embark",
-          "description": "The all-in-one developer platform for building and deploying decentralized applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-30T14:41:38Z",
-            "owner": "embarklabs",
-            "repo": "embark",
-            "stars": 3771
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Brownie",
-          "description": "Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-05T06:41:17Z",
-            "owner": "eth-brownie",
-            "repo": "brownie",
-            "stars": 2723
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum Code Viewer",
-          "description": "View source of deployed Ethereum smart contracts in VS Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-30T08:02:35Z",
-            "owner": "dethcrypto",
-            "repo": "dethcode",
-            "stars": 1371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solana Playground",
-          "description": "Online IDE to quickly develop and deploy Solana programs that runs on web browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T12:28:10Z",
-            "owner": "solana-playground",
-            "repo": "solana-playground",
-            "stars": 955
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "evmchain-config",
-          "description": "Universal EVM chain configuration manager — one works across Hardhat, Foundry, viem, and ethers. Auto-detects project type, 18+ built-in chains.",
-          "children": []
-        }
-      ],
-      "title": "Development Environment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tatum SDK",
-          "description": "Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-08T12:32:12Z",
-            "owner": "tatumio",
-            "repo": "tatum-js",
-            "stars": 398
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kryptokrona Kotlin SDK",
-          "description": "Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-08-14T07:32:57Z",
-            "owner": "kryptokrona",
-            "repo": "kryptokrona-kotlin-sdk",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clanker Wallet",
-          "description": "Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T12:34:15Z",
-            "owner": "almogdepaz",
-            "repo": "clanker-wallet",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AxonFi SDK",
-          "description": "Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-16T20:45:08Z",
-            "owner": "axonfi",
-            "repo": "sdk",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PVP Genesis SDK",
-          "description": "TypeScript/JavaScript SDK for tokenizing physical energy and compute resources on Polygon blockchain, enabling DePIN applications.",
-          "children": []
-        }
-      ],
-      "title": "SDK"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WalletLink",
-          "description": "Open protocol that lets users connect their mobile wallets to your DApp.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-30T18:13:56Z",
-            "owner": "coinbase",
-            "repo": "coinbase-wallet-sdk",
-            "stars": 1758
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartWeave",
-          "description": "SmartWeave is smart contract protocol that allows developers to build permanent applications on top of Arweave.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-06-23T11:52:46Z",
-            "owner": "ArweaveTeam",
-            "repo": "SmartWeave",
-            "stars": 258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Router Protocol",
-          "description": "Router Protocol bridges different layer 1 and layer 2 blockchains, enabling seamless cross-chain liquidity migration in DeFi. It facilitates token transfers between chains and cross-chain execution of operations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-06-07T14:30:40Z",
-            "owner": "router-resources",
-            "repo": "RouterProtocol",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chitin",
-          "description": "On-chain soul identity for AI agents on Base L2. W3C DID resolution (did:chitin), Soulbound Tokens (EIP-5192), ERC-8004 agent passports, verifiable certificates, and governance voting. (GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-02-09T20:16:19Z",
-            "owner": "chitin-id",
-            "repo": "chitin-contracts",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ophis",
-          "description": "Intent-based DEX aggregator (a CoW Protocol fork) for gasless, MEV-protected swaps across 11 chains, with an MCP server and SDK for AI agents. (GitHub · Docs)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T19:33:52Z",
-            "owner": "ophis-fi",
-            "repo": "ophis",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MolTrust",
-          "description": "Trust infrastructure for AI agents. W3C DID identity verification, reputation scoring, Ed25519-signed Verifiable Credentials, and Base blockchain anchoring. (SDK · PyPI · API Docs)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-25T11:50:42Z",
-            "owner": "MoltyCel",
-            "repo": "moltrust-sdk",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Protocol"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "web3.js",
-          "description": "Ethereum JavaScript API which connects to the Generic JSON-RPC spec.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-03-05T08:48:59Z",
-            "owner": "web3",
-            "repo": "web3.js",
-            "stars": 19920
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Truffle",
-          "description": "Development environment, testing framework and asset pipeline for Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-04-22T08:47:19Z",
-            "owner": "ConsenSys-archive",
-            "repo": "truffle",
-            "stars": 13915
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethers.js",
-          "description": "Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-18T05:08:13Z",
-            "owner": "ethers-io",
-            "repo": "ethers.js",
-            "stars": 8712
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "js-ipfs",
-          "description": "IPFS implementation in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-05-25T17:13:28Z",
-            "owner": "ipfs",
-            "repo": "js-ipfs",
-            "stars": 7396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wagmi",
-          "description": "React hooks library for Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:58:57Z",
-            "owner": "wevm",
-            "repo": "wagmi",
-            "stars": 6743
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BitcoinJS",
-          "description": "Bitcoin library for node.js and browsers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-17T01:08:49Z",
-            "owner": "bitcoinjs",
-            "repo": "bitcoinjs-lib",
-            "stars": 5997
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web3-react",
-          "description": "Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-08-20T17:47:06Z",
-            "owner": "Uniswap",
-            "repo": "web3-react",
-            "stars": 5686
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solana-web3.js",
-          "description": "Solana Javascript API built on the Solana JSON RPC API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T15:04:13Z",
-            "owner": "solana-foundation",
-            "repo": "solana-web3.js",
-            "stars": 2748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "starknet.js",
-          "description": "JavaScript library to interact with Starknet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:34:10Z",
-            "owner": "starknet-io",
-            "repo": "starknet.js",
-            "stars": 1258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OnchainKit",
-          "description": "Collection of tools to build world-class onchain apps with CSS, React, and Typescript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-31T07:06:16Z",
-            "owner": "coinbase",
-            "repo": "onchainkit",
-            "stars": 1043
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hashgraph Online Standards SDK",
-          "description": "TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-08T13:40:09Z",
-            "owner": "hashgraph-online",
-            "repo": "standards-sdk",
-            "stars": 941
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tatum JavaScript SDK",
-          "description": "Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-08T12:32:12Z",
-            "owner": "tatumio",
-            "repo": "tatum-js",
-            "stars": 398
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "avalanchejs",
-          "description": "JavaScript Library for interfacing with the Avalanche Platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T20:40:27Z",
-            "owner": "ava-labs",
-            "repo": "avalanchejs",
-            "stars": 358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sequence.js",
-          "description": "Sequence is modular web3 stack and smart wallet for Ethereum chains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-27T18:31:09Z",
-            "owner": "0xsequence",
-            "repo": "sequence.js",
-            "stars": 317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "js-algorand-sdk",
-          "description": "AlgoSDK is the official JavaScript library for communicating with the Algorand network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:51:21Z",
-            "owner": "algorand",
-            "repo": "js-algorand-sdk",
-            "stars": 298
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "seaport-js",
-          "description": "JavaScript library to interface with the Seaport marketplace.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T07:55:47Z",
-            "owner": "ProjectOpenSea",
-            "repo": "seaport-js",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@web3icons/react",
-          "description": "Web3 icons as React components. Includes tokens, coins, networks, wallets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:01:55Z",
-            "owner": "0xa3k5",
-            "repo": "web3icons",
-            "stars": 267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dapparatus",
-          "description": "Reusable dApp components in React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-08T20:41:59Z",
-            "owner": "austintgriffith",
-            "repo": "dapparatus",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ensjs",
-          "description": "Javascript bindings for the Ethereum Name Service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-31T18:10:46Z",
-            "owner": "ensdomains",
-            "repo": "ensjs",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ipfs-mini",
-          "description": "Super tiny module for querying an IPFS node, that works in the browser and in Node.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-06-08T22:22:19Z",
-            "owner": "SilentCicero",
-            "repo": "ipfs-mini",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lens.js",
-          "description": "Lens.js is JavaScript SDK or API wrapper for the Lens API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-09T06:55:55Z",
-            "owner": "suhailkakar",
-            "repo": "lens.js",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "livepeer.js",
-          "description": "Livepeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-03T11:18:22Z",
-            "owner": "livepeer",
-            "repo": "ui-kit",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "signature-validator",
-          "description": "TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard EOA signatures, ERC-712.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-09-12T12:46:29Z",
-            "owner": "AmbireTech",
-            "repo": "signature-validator",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bee-js",
-          "description": "Javascript client library for connecting to Bee decentralised storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:14:00Z",
-            "owner": "ethersphere",
-            "repo": "bee-js",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "notify",
-          "description": "JavaScript library for real time notifications for Ethereum transaction state changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-27T04:46:03Z",
-            "owner": "blocknative",
-            "repo": "notify",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Avalanche Wallet SDK",
-          "description": "Typescript library to create and manage wallets on the Avalanche network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-17T22:29:24Z",
-            "owner": "ava-labs",
-            "repo": "avalanche-wallet-sdk",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@kolirt/vue-web3-auth",
-          "description": "Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-17T20:26:27Z",
-            "owner": "kolirt",
-            "repo": "vue-web3-auth",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@paritytech/bcts",
-          "description": "TypeSript library implementing common specifications for decentralized applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T04:55:10Z",
-            "owner": "paritytech",
-            "repo": "bcts",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "db3.js",
-          "description": "DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-07-01T01:05:25Z",
-            "owner": "dbpunk-labs",
-            "repo": "db3.js",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "attestate/crawler",
-          "description": "JavaScript library for retrieving on-chain storage and generating data derivatives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-03T14:02:52Z",
-            "owner": "attestate",
-            "repo": "crawler",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Formo SDK",
-          "description": "Analytics and attribution SDK for onchain apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T06:34:25Z",
-            "owner": "getformo",
-            "repo": "sdk",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenZeppelin",
-          "description": "The standard for secure blockchain applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-18T14:18:10Z",
-            "owner": "OpenZeppelin",
-            "repo": "openzeppelin-contracts",
-            "stars": 27219
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solady",
-          "description": "Gas optimized Solidity Libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-17T10:44:09Z",
-            "owner": "Vectorized",
-            "repo": "solady",
-            "stars": 3360
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Date and Time tools",
-          "description": "Contract which implements utilities for working with datetime values in ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-05T16:34:43Z",
-            "owner": "pipermerriam",
-            "repo": "ethereum-datetime",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CREATE2 Deployer",
-          "description": "Helper smart contract to make easier and safer usage of the EVM opcode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T09:22:16Z",
-            "owner": "pcaversaccio",
-            "repo": "create2deployer",
-            "stars": 307
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeFiMath",
-          "description": "Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T20:11:17Z",
-            "owner": "MerkleBlue",
-            "repo": "defimath",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Solidity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "avalanchego",
-          "description": "Go implementation of an Avalanche node.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T20:02:43Z",
-            "owner": "ava-labs",
-            "repo": "avalanchego",
-            "stars": 2355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tss-lib",
-          "description": "This is an implementation of multi-party {t,n}-threshold ECDSA (Elliptic Curve Digital Signature Algorithm) based on Gennaro and Goldfeder CCS 2018 1 and EdDSA (Edwards-curve Digital Signature Algorithm)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-09T13:36:58Z",
-            "owner": "bnb-chain",
-            "repo": "tss-lib",
-            "stars": 1033
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eRPC",
-          "description": "Open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T11:00:14Z",
-            "owner": "erpc",
-            "repo": "erpc",
-            "stars": 757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethereum-hdwallet",
-          "description": "Ethereum HD Wallet derivations from seed which implements the go-ethereum's accounts.Wallet interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-27T19:44:11Z",
-            "owner": "miguelmota",
-            "repo": "go-ethereum-hdwallet",
-            "stars": 553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coreth",
-          "description": "Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-11-25T20:09:08Z",
-            "owner": "ava-labs",
-            "repo": "coreth",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "avalanche-network-runner",
-          "description": "Tool to run and interact with an Avalanche network locally.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-03T22:25:43Z",
-            "owner": "ava-labs",
-            "repo": "avalanche-network-runner",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "subnet-cli",
-          "description": "CLI tool to manage Avalanche Subnets.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-01-09T18:47:16Z",
-            "owner": "ava-labs",
-            "repo": "subnet-cli",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ava-sim",
-          "description": "Helper tool to spin up a local instance of an Avalanche network to interact with the standard APIs or to test a custom VM.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-03-27T05:36:16Z",
-            "owner": "ava-labs",
-            "repo": "ava-sim",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart Router",
-          "description": "Reliability and security layer for blockchain RPC that orchestrates multiple upstreams behind a single endpoint, with automatic failover, data cross-validation, block-aware caching, and observability across EVM and non-EVM networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T14:48:25Z",
-            "owner": "Magma-Devs",
-            "repo": "smart-router",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Trust Wallet Core",
-          "description": "Cross-platform, mobile-focused library implementing low-level cryptographic wallet functionality for a high number of blockchains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T09:56:04Z",
-            "owner": "trustwallet",
-            "repo": "wallet-core",
-            "stars": 3556
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libethc",
-          "description": "Open-source Ethereum library in ANSI C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-18T04:05:42Z",
-            "owner": "mhw0",
-            "repo": "libethc",
-            "stars": 72
-          }
-        }
-      ],
-      "title": "C/C++"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Reth",
-          "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:39:44Z",
-            "owner": "paradigmxyz",
-            "repo": "reth",
-            "stars": 5742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenEthereum",
-          "description": "The fast, light, and robust client for the Ethereum mainnet.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-05-23T19:01:30Z",
-            "owner": "openethereum",
-            "repo": "openethereum",
-            "stars": 1626
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RustChain",
-          "description": "Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. (source code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T04:02:45Z",
-            "owner": "Scottcjn",
-            "repo": "Rustchain",
-            "stars": 620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "browser-web3-signer",
-          "description": "Sign EVM and TRON transactions and messages with your own browser wallet (MetaMask, Rabby, TronLink) from the CLI or from Rust, TypeScript, and Go programs; the private key never leaves the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-07T09:13:58Z",
-            "owner": "nikicat",
-            "repo": "browser-web3-signer",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "web3.py",
-          "description": "Python interface for interacting with the Ethereum blockchain and ecosystem.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-01T21:14:45Z",
-            "owner": "ApeWorX",
-            "repo": "web3.py",
-            "stars": 5521
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vyper",
-          "description": "Contract-oriented, pythonic programming language that targets EVM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T18:27:52Z",
-            "owner": "vyperlang",
-            "repo": "vyper",
-            "stars": 5179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "py-evm",
-          "description": "Ethereum protocol implementation in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-09-08T15:31:46Z",
-            "owner": "ethereum",
-            "repo": "py-evm",
-            "stars": 2353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dexscraper",
-          "description": "Python SDK and CLI for extracting real-time DexScreener market data over WebSocket and API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-30T21:25:09Z",
-            "owner": "vincentkoc",
-            "repo": "dexscraper",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "py-ethclient",
-          "description": "Python Ethereum L1 execution client built from scratch — EVM, RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-01T16:03:40Z",
-            "owner": "tokamak-network",
-            "repo": "py-ethclient",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "evmone",
-          "description": "C++ implementation of the Ethereum Virtual Machine (EVM), faster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T06:00:26Z",
-            "owner": "ipsilon",
-            "repo": "evmone",
-            "stars": 974
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpacesVM",
-          "description": "SpacesVM enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-03-07T02:07:11Z",
-            "owner": "ava-labs",
-            "repo": "spacesvm",
-            "stars": 83
-          }
-        }
-      ],
-      "title": "VMs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "scaffold-eth",
-          "description": "Ethereum dev stack focused on fast product iterations.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2024-06-04T15:20:23Z",
-            "owner": "scaffold-eth",
-            "repo": "scaffold-eth",
-            "stars": 9041
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ethereum-boilerplate",
-          "description": "The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-19T14:27:22Z",
-            "owner": "ethereum-boilerplate",
-            "repo": "ethereum-boilerplate",
-            "stars": 4139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "create-eth-app",
-          "description": "Create Ethereum-powered apps with one command, similar to create-react-app.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-04-10T08:13:43Z",
-            "owner": "WalletConnect",
-            "repo": "create-eth-app",
-            "stars": 2748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "useDApp",
-          "description": "Framework for rapid Dapp development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-10T19:28:09Z",
-            "owner": "TrueFiEng",
-            "repo": "useDApp",
-            "stars": 1583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "create-web3-dapp",
-          "description": "The complete toolbox to create web3 applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T11:06:22Z",
-            "owner": "alchemyplatform",
-            "repo": "create-web3-dapp",
-            "stars": 913
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nexth",
-          "description": "Next.js + Ethereum starter kit to quickly ship Web3 Apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-21T12:49:24Z",
-            "owner": "wslyvh",
-            "repo": "nexth",
-            "stars": 747
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Turbo ETH",
-          "description": "Web3 App Template in Next.js 13, Tailwind, RainbowKit and Optimized Developer UX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-05-03T14:06:27Z",
-            "owner": "turbo-eth",
-            "repo": "template-web3-app",
-            "stars": 385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dapp-starter-template",
-          "description": "Opinionated Dapp Starter Template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:41:03Z",
-            "owner": "jellydn",
-            "repo": "dapp-starter",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "next-web3-boilerplate",
-          "description": "Boilerplate in TypeScript using Next.js, NextAuth.js, siwe, Web3modal, useDapp, next-i18next, reactMUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-06-24T10:20:30Z",
-            "owner": "SoxZz5",
-            "repo": "next-web3-boilerplate",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NextJs Web3 Template",
-          "description": "NextJS Typescript template with wallet integration + token gated pages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-26T15:53:29Z",
-            "owner": "abaker42",
-            "repo": "crypto-shelfy-template",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Boilerplate"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "solidity-coverage",
-          "description": "Code coverage for Solidity smart-contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-11T19:32:00Z",
-            "owner": "sc-forks",
-            "repo": "solidity-coverage",
-            "stars": 1003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Waffle",
-          "description": "Library for writing and testing smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-22T21:36:56Z",
-            "owner": "TrueFiEng",
-            "repo": "Waffle",
-            "stars": 961
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openzeppelin-test-helpers",
-          "description": "Assertion library for Ethereum smart contract testing that you can use with hardhat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-07T15:58:33Z",
-            "owner": "OpenZeppelin",
-            "repo": "openzeppelin-test-helpers",
-            "stars": 410
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prb-test",
-          "description": "Modern collection of testing assertions and logging utilities for Solidity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-12-26T16:08:50Z",
-            "owner": "PaulRBerg",
-            "repo": "prb-test",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mock-contract",
-          "description": "Simple Solidity contract to mock dependent contracts in truffle tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-02-21T18:27:44Z",
-            "owner": "gnosis",
-            "repo": "mock-contract",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robot Framework Solidity Testing Toolkit",
-          "description": "This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-10T22:43:07Z",
-            "owner": "jg8481",
-            "repo": "Robot-Framework-Solidity-Testing-Toolkit",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Slither",
-          "description": "Solidity static analysis framework, a suite of vulnerability detectors, prints visual information about contract details etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T22:56:04Z",
-            "owner": "crytic",
-            "repo": "slither",
-            "stars": 6345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solhint",
-          "description": "Solidity linter providing Security and Style Guide validations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T13:28:54Z",
-            "owner": "protofire",
-            "repo": "solhint",
-            "stars": 1125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slippy",
-          "description": "Simple and powerful linter for Solidity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-22T14:05:48Z",
-            "owner": "slippy-lint",
-            "repo": "slippy",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Code Quality"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Gun",
-          "description": "Small, easy, and fast protocol for syncing data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-01T11:38:47Z",
-            "owner": "amark",
-            "repo": "gun",
-            "stars": 19118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OrbitDB",
-          "description": "Serverless, distributed, peer-to-peer database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-14T14:56:57Z",
-            "owner": "orbitdb",
-            "repo": "orbitdb",
-            "stars": 8794
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DB3",
-          "description": "DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-07-29T15:58:05Z",
-            "owner": "dbpunk-labs",
-            "repo": "db3",
-            "stars": 385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeaveDB",
-          "description": "WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-26T03:36:50Z",
-            "owner": "weavedb",
-            "repo": "weavedb",
-            "stars": 209
-          }
-        }
-      ],
-      "title": "Database"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Slither",
-          "description": "A Solidity static analysis framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T22:56:04Z",
-            "owner": "crytic",
-            "repo": "slither",
-            "stars": 6345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mythril",
-          "description": "Open-source EVM bytecode security analysis tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-27T04:13:25Z",
-            "owner": "ConsenSysDiligence",
-            "repo": "mythril",
-            "stars": 4263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Manticore",
-          "description": "Symbolic execution tool on smart contracts and binaries.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-06-24T16:28:22Z",
-            "owner": "trailofbits",
-            "repo": "manticore",
-            "stars": 3859
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidity security blog",
-          "description": "Comprehensive list of known attack vectors and common anti-patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-23T12:06:25Z",
-            "owner": "sigp",
-            "repo": "solidity-security-blog",
-            "stars": 1522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Oyente",
-          "description": "Alternative static smart contract security analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-01-19T05:35:00Z",
-            "owner": "enzymefinance",
-            "repo": "oyente",
-            "stars": 1339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solgraph",
-          "description": "Visualise Solidity control flow for smart contract security analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-04T15:07:40Z",
-            "owner": "raineorshine",
-            "repo": "solgraph",
-            "stars": 1028
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethersplay",
-          "description": "EVM disassembler.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-09-04T20:46:29Z",
-            "owner": "crytic",
-            "repo": "ethersplay",
-            "stars": 858
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evmdis",
-          "description": "Alternative EVM disassembler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-05-09T03:43:06Z",
-            "owner": "Arachnid",
-            "repo": "evmdis",
-            "stars": 566
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EVMole",
-          "description": "Extracts function selectors from EVM bytecode, even for unverified contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T11:03:46Z",
-            "owner": "cdump",
-            "repo": "evmole",
-            "stars": 458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CryptoFin Solidity Auditing Checklist",
-          "description": "A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-06T15:58:19Z",
-            "owner": "cryptofinlabs",
-            "repo": "audit-checklist",
-            "stars": 368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hydra",
-          "description": "Framework for cryptoeconomic contract security, decentralised security bounties.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2018-03-02T15:03:45Z",
-            "owner": "IC3Hydra",
-            "repo": "Hydra",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solc-verify",
-          "description": "A modular verifier for Solidity smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-09-05T16:46:45Z",
-            "owner": "SRI-CSL",
-            "repo": "solidity",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TRONSEC",
-          "description": "Client-side TRON security toolkit: wallet analysis, AML heuristics, contract scanning, transaction decoding, and phishing URL checks. No wallet connection required. Source.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-18T10:44:03Z",
-            "owner": "jamejohns",
-            "repo": "tronsec",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adelaide",
-          "description": "The SECBIT static analysis extension to Solidity compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-01-31T11:08:25Z",
-            "owner": "sec-bit",
-            "repo": "adelaide",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Risk Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "x402-proxy",
-          "description": "for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T14:27:06Z",
-            "owner": "cascade-protocol",
-            "repo": "x402-proxy",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@up2itnow0822/agent-wallet-sdk",
-          "description": "TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T11:08:19Z",
-            "owner": "up2itnow0822",
-            "repo": "agent-wallet-sdk",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MoltsPay",
-          "description": "Universal Payment Protocol (UPP) for AI agents that abstracts multiple underlying protocols (x402, MPP, PFS, Pre-Approval) into a single unified API. Supports 8 blockchains with protocol-specific optimizations and gasless payments. Node.js and Python SDKs available.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T11:26:58Z",
-            "owner": "Yaqing2023",
-            "repo": "moltspay",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Signet CLI",
-          "description": "CLI and SDK for Signet, an onchain advertising platform on Base. Enables AI agents to purchase spotlight ads with USDC via the x402 payment protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-15T17:42:52Z",
-            "owner": "h1-hunt",
-            "repo": "signet-client",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arch Tools",
-          "description": "The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. GitHub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-12T05:13:19Z",
-            "owner": "Deesmo",
-            "repo": "Arch-AI-Tools",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentServices",
-          "description": "54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, and on-chain analytics. 41 x402-paid endpoints ($0.01-$0.05/call, USDC on Base). Remote MCP server, cloud-hosted.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T14:10:01Z",
-            "owner": "vbkotecha",
-            "repo": "agentservices-api",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpraayBatch",
-          "description": "Batch USDC payments on Base for AI agents — pay up to 200 recipients in one atomic transaction. Gasless via CDP Paymaster, non-custodial auto-wallets, per-agent budget caps. OpenClaw plugin with ClawHub security audit pass. (ClawHub)",
-          "children": []
-        }
-      ],
-      "title": "x402 Payments Protocol"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2253,25 +2397,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171701553,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:48:21Z",
+            "last_commit": "2026-08-18T22:59:49Z",
             "owner": "kawacukennedy",
             "repo": "kuberna-labs",
             "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dRPC Agent Skills",
-          "description": "Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-21T13:05:38Z",
-            "owner": "drpcorg",
-            "repo": "drpc-agent-skills",
-            "stars": 22
           }
         },
         {
@@ -2281,10 +2412,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204009445,
             "language": "Python",
             "last_commit": "2026-05-01T11:45:59Z",
             "owner": "dioptx",
             "repo": "web3-docs",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dRPC Agent Skills",
+          "description": "Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1202845859,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T13:05:38Z",
+            "owner": "drpcorg",
+            "repo": "drpc-agent-skills",
             "stars": 22
           }
         },
@@ -2295,6 +2442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1043592077,
             "language": "TypeScript",
             "last_commit": "2026-08-18T15:18:49Z",
             "owner": "hive-intel",
@@ -2309,6 +2457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1258456256,
             "language": "Python",
             "last_commit": "2026-08-17T02:10:31Z",
             "owner": "ulsreall",
@@ -2323,6 +2472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1280386868,
             "language": "JavaScript",
             "last_commit": "2026-06-29T15:48:04Z",
             "owner": "axiosdevs",
@@ -2337,6 +2487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1185172525,
             "language": "Python",
             "last_commit": "2026-05-26T20:27:51Z",
             "owner": "pythia-the-oracle",
@@ -2351,6 +2502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1284628499,
             "language": "Python",
             "last_commit": "2026-08-18T14:10:01Z",
             "owner": "vbkotecha",
@@ -2365,6 +2517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1192568320,
             "language": "JavaScript",
             "last_commit": "2026-05-25T14:02:04Z",
             "owner": "Grandionn",
@@ -2379,6 +2532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1281173127,
             "language": "TypeScript",
             "last_commit": "2026-08-07T01:01:52Z",
             "owner": "YoungAlgy",
@@ -2390,7 +2544,7 @@
       "title": "AI & LLM & MCP"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2399,11 +2553,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40892817,
             "language": "C++",
-            "last_commit": "2026-08-18T16:44:12Z",
+            "last_commit": "2026-08-18T22:40:21Z",
             "owner": "argotorg",
             "repo": "solidity",
-            "stars": 25703
+            "stars": 25702
           }
         },
         {
@@ -2413,11 +2568,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66573241,
             "language": "Go",
             "last_commit": "2026-08-05T12:23:49Z",
             "owner": "hyperledger",
             "repo": "fabric",
-            "stars": 16699
+            "stars": 16700
           }
         },
         {
@@ -2427,6 +2583,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 121470383,
             "language": "Rust",
             "last_commit": "2025-01-22T19:41:54Z",
             "owner": "solana-labs",
@@ -2441,11 +2598,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42009758,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:40:30Z",
+            "last_commit": "2026-08-19T12:53:01Z",
             "owner": "MetaMask",
             "repo": "metamask-extension",
-            "stars": 13201
+            "stars": 13203
           }
         },
         {
@@ -2455,8 +2613,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111455867,
             "language": "Go",
-            "last_commit": "2026-08-18T20:51:42Z",
+            "last_commit": "2026-08-19T12:58:23Z",
             "owner": "smartcontractkit",
             "repo": "chainlink",
             "stars": 8236
@@ -2469,8 +2628,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117294980,
             "language": "Elixir",
-            "last_commit": "2026-08-18T16:29:56Z",
+            "last_commit": "2026-08-19T12:48:19Z",
             "owner": "blockscout",
             "repo": "blockscout",
             "stars": 4641
@@ -2483,8 +2643,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176777353,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:16:19Z",
+            "last_commit": "2026-08-18T23:28:22Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
             "stars": 4379
@@ -2497,11 +2658,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36613036,
             "language": "C#",
             "last_commit": "2026-08-09T22:06:09Z",
             "owner": "neo-project",
             "repo": "neo",
-            "stars": 3535
+            "stars": 3536
           }
         },
         {
@@ -2511,8 +2673,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248697283,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:15:57Z",
+            "last_commit": "2026-08-19T12:19:19Z",
             "owner": "remix-project-org",
             "repo": "remix-project",
             "stars": 3040
@@ -2525,8 +2688,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356248265,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:29:00Z",
+            "last_commit": "2026-08-19T09:57:09Z",
             "owner": "RabbyHub",
             "repo": "Rabby",
             "stars": 1885
@@ -2539,6 +2703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144596802,
             "language": "JavaScript",
             "last_commit": "2025-09-24T16:08:38Z",
             "owner": "web3swift-team",
@@ -2553,6 +2718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378931616,
             "language": "JavaScript",
             "last_commit": "2026-08-17T06:03:20Z",
             "owner": "dappros",
@@ -2567,6 +2733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437601831,
             "language": "JavaScript",
             "last_commit": "2026-03-16T13:09:21Z",
             "owner": "AmbireTech",
@@ -2581,6 +2748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474374312,
             "language": "Svelte",
             "last_commit": "2026-07-31T10:49:05Z",
             "owner": "kryptokrona",
@@ -2595,6 +2763,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 280959509,
             "language": "JavaScript",
             "last_commit": "2026-01-06T14:42:09Z",
             "owner": "kryptokrona",
@@ -2609,6 +2778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848380902,
             "language": "JavaScript",
             "last_commit": "2026-08-11T08:42:20Z",
             "owner": "mybucks-online",
@@ -2623,6 +2793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206288702,
             "language": "TypeScript",
             "last_commit": "2026-04-09T19:08:12Z",
             "owner": "manja316",
@@ -2637,6 +2808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206291059,
             "language": "TypeScript",
             "last_commit": "2026-04-09T19:11:22Z",
             "owner": "manja316",
@@ -2651,6 +2823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206291116,
             "language": "TypeScript",
             "last_commit": "2026-04-09T19:11:27Z",
             "owner": "manja316",
@@ -2665,30 +2838,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1297032960,
             "language": "Solidity",
             "last_commit": "2026-07-11T01:32:33Z",
             "owner": "troysteele5-dotcom",
             "repo": "vaultion-contracts",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "react-moralis",
-          "description": "Hooks and components to use Moralis in React app.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Mobula",
-          "description": "Mobula App is an open-source coin & portfolio tracking platform",
-          "children": []
         }
       ],
       "title": "Open Source Project"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2697,6 +2859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850193402,
             "language": "Go",
             "last_commit": "2025-08-17T14:09:53Z",
             "owner": "volodymyrprokopyuk",
@@ -2711,6 +2874,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 387070067,
             "language": "Python",
             "last_commit": "2024-09-27T23:36:13Z",
             "owner": "0xkarmacoma",
@@ -2722,7 +2886,7 @@
       "title": "Tutorial"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2731,11 +2895,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65392364,
             "language": null,
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21519
+            "stars": 21517
           }
         },
         {
@@ -2745,6 +2910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318594866,
             "language": null,
             "last_commit": "2025-05-17T17:01:31Z",
             "owner": "sherminvo",
@@ -2754,16 +2920,12 @@
         }
       ],
       "title": "Book"
-    },
-    {
-      "description": "Contributions are welcomed! Please read the contribution guidelines first.\nPlease star this repo to show your support ⭐",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:51:53.289Z",
+    "last_updated": "2026-08-19T12:58:28.115Z",
     "original_repository": "ahmet/awesome-web3",
+    "original_repository_id": 448622257,
     "original_repository_sha": "2bf6ba53a5a5e14ae1e23f4f774c36b4d35d39b5",
     "enhanced_repository": "enhansome/enhansome-web3",
     "enhanced_repository_description": null,
