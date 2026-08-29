@@ -216,7 +216,7 @@
 ### Solidity
 
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,234 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28 - The standard for secure blockchain applications.
-* [Solady](https://github.com/Vectorized/solady) ⭐ 3,368 | 🐛 45 | 🌐 Solidity | 📅 2026-08-17 - Gas optimized Solidity Libraries.
+* [Solady](https://github.com/Vectorized/solady) ⭐ 3,369 | 🐛 45 | 🌐 Solidity | 📅 2026-08-17 - Gas optimized Solidity Libraries.
 * [Date and Time tools](https://github.com/pipermerriam/ethereum-datetime) ⭐ 380 | 🐛 11 | 🌐 Python | 📅 2023-04-05 - Contract which implements utilities for working with datetime values in ethereum.
 * [CREATE2 Deployer](https://github.com/pcaversaccio/create2deployer) ⭐ 307 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-23 - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 * [DeFiMath](https://github.com/MerkleBlue/defimath) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-17 - Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics.
@@ -378,7 +378,7 @@
 * [Solidity](https://github.com/ethereum/solidity) ⭐ 25,717 | 🐛 801 | 🌐 C++ | 📅 2026-08-28 - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
 * [fabric](https://github.com/hyperledger/fabric) ⭐ 16,706 | 🐛 205 | 🌐 Go | 📅 2026-08-28 - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
 * [Solana](https://github.com/solana-labs/solana) ⚠️ Archived - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-* [MetaMask](https://github.com/MetaMask/metamask-extension) ⭐ 13,205 | 🐛 2,875 | 🌐 TypeScript | 📅 2026-08-29 - Browser extension of MetaMask crypto wallet.
+* [MetaMask](https://github.com/MetaMask/metamask-extension) ⭐ 13,205 | 🐛 2,874 | 🌐 TypeScript | 📅 2026-08-29 - Browser extension of MetaMask crypto wallet.
 * [Chainlink](https://github.com/smartcontractkit/chainlink) ⭐ 8,237 | 🐛 210 | 🌐 Go | 📅 2026-08-29 - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
 * [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,655 | 🐛 159 | 🌐 Elixir | 📅 2026-08-28 - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 * [Rainbow](https://github.com/rainbow-me/rainbow) ⭐ 4,384 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-29 - Open source Ethereum wallet.
