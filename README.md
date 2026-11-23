@@ -46,21 +46,21 @@
 
 ## Awesome List
 
-* [Solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,079 | 🐛 10 | 📅 2026-11-18 - Curated list of awesome Solidity resources, libraries, tools and more.
+* [Solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,081 | 🐛 11 | 📅 2026-11-18 - Curated list of awesome Solidity resources, libraries, tools and more.
 * [Blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,644 | 🐛 2 | 🌐 Go | 📅 2026-11-16 - Curated list of resources for the development and applications of blockchain.
 * [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) ⭐ 1,634 | 🐛 21 | 📅 2026-03-01 - Curated list of web3 security materials and resources for pentesters and bug hunters.
 * [Zero Knowledge](https://github.com/ventali/awesome-zk) ⭐ 1,597 | 🐛 9 | 📅 2024-10-15 - Curated list of awesome ZK resources, libraries, tools and more.
 * [StarkNet](https://github.com/gakonst/awesome-starknet) ⭐ 1,548 | 🐛 23 | 📅 2025-01-06 - Curated list of awesome StarkNet resources, libraries, tools and more.
 * [ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,485 | 🐛 44 | 📅 2024-08-20 - Curated list of Ethereum security references, guidance, tools, and more.
 * [Foundry](https://github.com/crisgarner/awesome-foundry) ⭐ 1,187 | 🐛 9 | 📅 2024-10-17 - Curated list of awesome Foundry resources, tutorials, tools and libraries.
-* [Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) ⭐ 1,024 | 🐛 867 | 📅 2026-06-09 - Collection of account abstraction resources.
+* [Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) ⭐ 1,024 | 🐛 868 | 📅 2026-06-09 - Collection of account abstraction resources.
 * [NFT](https://github.com/gianni-dalerta/awesome-nft) ⭐ 971 | 🐛 1 | 📅 2026-09-02 - Curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
-* [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) ⭐ 917 | 🐛 1,362 | 📅 2025-08-28 - Curated list of awesome Node providers and public RPC endpoints.
-* [Ethereum](https://github.com/bekatom/awesome-ethereum) ⭐ 910 | 🐛 39 | 📅 2026-11-21 - Awesome Ethereum & Dapps Resources.
+* [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) ⭐ 917 | 🐛 1,363 | 📅 2025-08-28 - Curated list of awesome Node providers and public RPC endpoints.
+* [Ethereum](https://github.com/bekatom/awesome-ethereum) ⭐ 910 | 🐛 40 | 📅 2026-11-21 - Awesome Ethereum & Dapps Resources.
 * [Farcaster Protocol](https://github.com/a16z/awesome-farcaster) ⚠️ Archived - A collection of awesome Farcaster links including clients, tools, and more.
 * [MakerDAO](https://github.com/makerdao/awesome-makerdao) ⚠️ Archived - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 * [Huff](https://github.com/devtooligan/awesome-huff) ⭐ 314 | 🐛 1 | 📅 2024-01-11 - Curated list of resources for Huff language.
-* [x402](https://github.com/xpaysh/awesome-x402) ⭐ 306 | 🐛 1,175 | 📅 2026-07-28 - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
+* [x402](https://github.com/xpaysh/awesome-x402) ⭐ 307 | 🐛 1,187 | 📅 2026-07-28 - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 * [Wagmi](https://github.com/wagmi-dev/awesome-wagmi) ⚠️ Archived - Curated list of awesome projects and resources related to Wagmi.
 * [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol) ⭐ 230 | 🐛 0 | 📅 2026-02-04 - Curated list of awesome Lens Protocol projects, resources, libraries, tools and more.
 * [Algorand](https://github.com/aorumbayev/awesome-algorand) ⭐ 216 | 🐛 5 | 🌐 Python | 📅 2026-10-15 - Curated list of awesome resources related to the Algorand Blockchain.
@@ -71,7 +71,7 @@
 * [Blockchain Scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) ⭐ 64 | 🐛 1 | 📅 2023-03-28 - Curated list of awesome resources about blockchain scalability.
 * [Arweave](https://github.com/bitruss/awesome-arweave) ⭐ 63 | 🐛 2 | 📅 2023-04-12 - Curated list of awesome resources related to the Arweave.
 * [AI × Crypto Tools](https://github.com/FlipZ3ro/awesome-ai-crypto-tools#readme) ⭐ 2 | 🐛 4 | 📅 2026-06-18 - Curated list of AI-powered tools for crypto trading, analysis, security, and development.
-* [Crypto Cards](https://github.com/liam1024-tech/awesome-crypto-cards) ⭐ 2 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-21 - Curated list and open dataset of 102+ crypto and stablecoin debit cards, KYC rules, fees, Apple Pay and AI subscription compatibility.
+* [Crypto Cards](https://github.com/liam1024-tech/awesome-crypto-cards) ⭐ 2 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-22 - Curated list and open dataset of 102+ crypto and stablecoin debit cards, KYC rules, fees, Apple Pay and AI subscription compatibility.
 * [Avalanche](https://github.com/arminreiter/awesome-avalanche) ⭐ 1 | 🐛 3 | 📅 2026-11-04 - Curated list of awesome Avalanche DApps, NFTs, Games, Memes, Community Members and other Avalanche resources.
 * [Kiwi](https://github.com/attestate/awesome-kiwinews) ⭐ 1 | 🐛 0 | 📅 2023-12-11 - Collection of documents, clients, apps, APIs, and other resources related to Kiwi protocol.
 * [Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) ⭐ 0 | 🐛 3 | 📅 2026-04-17 - Curated list of job boards, companies, salary data, and career resources for finding web3 and crypto jobs.
@@ -79,9 +79,9 @@
 
 ## Reference
 
-* [BIPs](https://github.com/bitcoin/bips) ⭐ 11,045 | 🐛 58 | 🌐 Wikitext | 📅 2026-11-20 - Bitcoin Improvement Proposals.
-* [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper) ⭐ 1,716 | 🐛 138 | 🌐 TeX | 📅 2025-02-26 - Formal definition of the Ethereum protocol.
-* [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes) ⭐ 831 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24).
+* [BIPs](https://github.com/bitcoin/bips) ⭐ 11,046 | 🐛 59 | 🌐 Wikitext | 📅 2026-11-20 - Bitcoin Improvement Proposals.
+* [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper) ⭐ 1,716 | 🐛 146 | 🌐 TeX | 📅 2025-02-26 - Formal definition of the Ethereum protocol.
+* [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes) ⭐ 832 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24).
 * [EVM Illustrated](https://github.com/takenobu-hs/ethereum-evm-illustrated/blob/master/ethereum_evm_illustrated.pdf) ⭐ 285 | 🐛 1 | 📅 2022-06-21 - Illustrated explanation of how EVM works under the hood.
 * [EIPs](https://eips.ethereum.org/all) - Ethereum Improvement Proposals.
 * [EVM Opcodes](https://www.ethervm.io) - Low level reference for the EVM and a Solidity decompiler which turns bytecode into more readable Solidity-like code.
@@ -93,7 +93,7 @@
 
 ### Developer Roadmap
 
-* [DeFi Developer](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,898 | 🐛 17 | 🌐 Python | 📅 2026-11-03 - Curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+* [DeFi Developer](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,903 | 🐛 18 | 🌐 Python | 📅 2026-11-03 - Curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 * [Blockend Developer](https://github.com/Envoy-VC/blockend-developer-roadmap) ⭐ 402 | 🐛 0 | 📅 2022-06-03 - Step By Step Roadmap for those who want to Learn Blockchain Development from Beginning.
 
 ### Communities
@@ -110,9 +110,9 @@
 ### Development Environment
 
 * [Embark](https://github.com/embarklabs/embark) ⭐ 3,765 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 - The all-in-one developer platform for building and deploying decentralized applications.
-* [Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,715 | 🐛 400 | 🌐 C | 📅 2026-10-26 - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+* [Brownie](https://github.com/eth-brownie/brownie) ⭐ 2,715 | 🐛 401 | 🌐 C | 📅 2026-10-26 - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 * [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) ⭐ 1,367 | 🐛 23 | 🌐 TypeScript | 📅 2025-09-30 - View source of deployed Ethereum smart contracts in VS Code.
-* [Solana Playground](https://github.com/solana-playground/solana-playground) ⭐ 980 | 🐛 109 | 🌐 Rust | 📅 2026-11-21 - Online IDE to quickly develop and deploy Solana programs that runs on web browser.
+* [Solana Playground](https://github.com/solana-playground/solana-playground) ⭐ 980 | 🐛 109 | 🌐 Rust | 📅 2026-11-22 - Online IDE to quickly develop and deploy Solana programs that runs on web browser.
 * [Coddy Solidity Playground](https://coddy.tech/playground/solidity) - Write, compile and run Solidity contracts in the browser, with no wallet or testnet.
 * [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 * [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
@@ -145,9 +145,9 @@
 
 ### Protocol
 
-* [WalletLink](https://github.com/walletlink/walletlink) ⭐ 1,770 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-10 - Open protocol that lets users connect their mobile wallets to your DApp.
+* [WalletLink](https://github.com/walletlink/walletlink) ⭐ 1,771 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-10 - Open protocol that lets users connect their mobile wallets to your DApp.
 * [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) ⭐ 257 | 🐛 21 | 🌐 TypeScript | 📅 2022-06-23 - SmartWeave is smart contract protocol that allows developers to build permanent applications on top of Arweave.
-* [Ophis](https://ophis.fi) - Intent-based DEX aggregator (a CoW Protocol fork) for gasless, MEV-protected swaps across 11 chains, with an MCP server and SDK for AI agents. ([GitHub](https://github.com/ophis-fi/ophis) ⭐ 4 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-21 · [Docs](https://docs.ophis.fi))
+* [Ophis](https://ophis.fi) - Intent-based DEX aggregator (a CoW Protocol fork) for gasless, MEV-protected swaps across 11 chains, with an MCP server and SDK for AI agents. ([GitHub](https://github.com/ophis-fi/ophis) ⭐ 4 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-22 · [Docs](https://docs.ophis.fi))
 * [Chitin](https://chitin.id) - On-chain soul identity for AI agents on Base L2. W3C DID resolution (did:chitin), Soulbound Tokens (EIP-5192), ERC-8004 agent passports, verifiable certificates, and governance voting. ([GitHub](https://github.com/Tiida-Tech/chitin-contracts) ⭐ 3 | 🐛 0 | 🌐 Solidity | 📅 2026-02-09)
 * [Router Protocol](https://github.com/router-resources/RouterProtocol) ⭐ 2 | 🐛 1 | 🌐 Solidity | 📅 2023-06-07 - Router Protocol bridges different layer 1 and layer 2 blockchains, enabling seamless cross-chain liquidity migration in DeFi. It facilitates token transfers between chains and cross-chain execution of operations.
 * [Papaya](https://papaya.finance/technology/protocol) - Non-custodial protocol for recurring stablecoin payments: per-second streaming and periodic subscriptions. ([SDK](https://github.com/Papaya-Finance/sdk) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-16 · [Docs](https://docs.papaya.finance))
@@ -180,13 +180,13 @@
 
 * [web3.js](https://github.com/ethereum/web3.js) ⚠️ Archived - Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived - Development environment, testing framework and asset pipeline for Ethereum.
-* [ethers.js](https://github.com/ethers-io/ethers.js/) ⭐ 8,727 | 🐛 700 | 🌐 TypeScript | 📅 2026-06-18 - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+* [ethers.js](https://github.com/ethers-io/ethers.js/) ⭐ 8,726 | 🐛 700 | 🌐 TypeScript | 📅 2026-06-18 - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
 * [js-ipfs](https://github.com/ipfs/js-ipfs) ⚠️ Archived - IPFS implementation in JavaScript.
 * [wagmi](https://github.com/wevm/wagmi) ⭐ 6,771 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-17 - React hooks library for Ethereum.
 * [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 6,004 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-26 - Bitcoin library for node.js and browsers.
 * [web3-react](https://github.com/NoahZinsmeister/web3-react) ⚠️ Archived - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 * [solana-web3.js](https://github.com/solana-labs/solana-web3.js) ⭐ 2,780 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-20 - Solana Javascript API built on the Solana JSON RPC API.
-* [Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk) ⭐ 1,288 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-19 - TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.
+* [Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk) ⭐ 1,287 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-19 - TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.
 * [starknet.js](https://github.com/0xs34n/starknet.js) ⭐ 1,255 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-17 - JavaScript library to interact with Starknet.
 * [OnchainKit](https://github.com/coinbase/onchainkit) ⚠️ Archived - Collection of tools to build world-class onchain apps with CSS, React, and Typescript.
 * [Tatum JavaScript SDK](https://github.com/tatumio/tatum-js) ⭐ 396 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-08 - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
@@ -194,7 +194,7 @@
 * [sequence.js](https://github.com/0xsequence/sequence.js) ⭐ 318 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-21 - Sequence is modular web3 stack and smart wallet for Ethereum chains.
 * [@web3icons/react](https://github.com/0xa3k5/web3icons) ⭐ 297 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-20 - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 * [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 296 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-31 - AlgoSDK is the official JavaScript library for communicating with the Algorand network.
-* [seaport-js](https://github.com/ProjectOpenSea/seaport-js) ⭐ 273 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-16 - JavaScript library to interface with the Seaport marketplace.
+* [seaport-js](https://github.com/ProjectOpenSea/seaport-js) ⭐ 273 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-16 - JavaScript library to interface with the Seaport marketplace.
 * [dapparatus](https://github.com/austintgriffith/dapparatus) ⭐ 190 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-08 - Reusable dApp components in React.
 * [ensjs](https://github.com/ensdomains/ensjs) ⭐ 159 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-20 - Javascript bindings for the Ethereum Name Service.
 * [ipfs-mini](https://github.com/silentcicero/ipfs-mini) ⭐ 153 | 🐛 12 | 🌐 JavaScript | 📅 2022-06-08 - Super tiny module for querying an IPFS node, that works in the browser and in Node.
@@ -214,7 +214,7 @@
 
 ### Solidity
 
-* [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,362 | 🐛 339 | 🌐 Solidity | 📅 2026-11-20 - The standard for secure blockchain applications.
+* [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,364 | 🐛 341 | 🌐 Solidity | 📅 2026-11-20 - The standard for secure blockchain applications.
 * [Solady](https://github.com/Vectorized/solady) ⭐ 3,400 | 🐛 48 | 🌐 Solidity | 📅 2026-10-20 - Gas optimized Solidity Libraries.
 * [Date and Time tools](https://github.com/pipermerriam/ethereum-datetime) ⭐ 380 | 🐛 11 | 🌐 Python | 📅 2023-04-05 - Contract which implements utilities for working with datetime values in ethereum.
 * [CREATE2 Deployer](https://github.com/pcaversaccio/create2deployer) ⭐ 306 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
@@ -222,27 +222,27 @@
 
 ### Go
 
-* [avalanchego](https://github.com/ava-labs/avalanchego) ⭐ 2,360 | 🐛 374 | 🌐 Go | 📅 2026-11-21 - Go implementation of an Avalanche node.
+* [avalanchego](https://github.com/ava-labs/avalanchego) ⭐ 2,360 | 🐛 374 | 🌐 Go | 📅 2026-11-22 - Go implementation of an Avalanche node.
 * [tss-lib](https://github.com/bnb-chain/tss-lib) ⭐ 1,055 | 🐛 68 | 🌐 Go | 📅 2026-09-23 - This is an implementation of multi-party {t,n}-threshold ECDSA (Elliptic Curve Digital Signature Algorithm) based on Gennaro and Goldfeder CCS 2018 1 and EdDSA (Edwards-curve Digital Signature Algorithm)
-* [eRPC](https://github.com/erpc/erpc) ⭐ 806 | 🐛 170 | 🌐 Go | 📅 2026-11-21 - Open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.
+* [eRPC](https://github.com/erpc/erpc) ⭐ 807 | 🐛 170 | 🌐 Go | 📅 2026-11-21 - Open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.
 * [ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet) ⭐ 553 | 🐛 1 | 🌐 Go | 📅 2025-04-27 - Ethereum HD Wallet derivations from seed which implements the go-ethereum's accounts.Wallet interface.
 * [coreth](https://github.com/ava-labs/coreth) ⚠️ Archived - Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.
 * [avalanche-network-runner](https://github.com/ava-labs/avalanche-network-runner) ⭐ 98 | 🐛 63 | 🌐 Go | 📅 2026-11-09 - Tool to run and interact with an Avalanche network locally.
 * [subnet-cli](https://github.com/ava-labs/subnet-cli) ⚠️ Archived - CLI tool to manage Avalanche Subnets.
 * [ava-sim](https://github.com/ava-labs/ava-sim) ⚠️ Archived - Helper tool to spin up a local instance of an Avalanche network to interact with the standard APIs or to test a custom VM.
-* [Smart Router](https://github.com/Magma-Devs/smart-router) ⭐ 16 | 🐛 40 | 🌐 Go | 📅 2026-11-19 - Reliability and security layer for blockchain RPC that orchestrates multiple upstreams behind a single endpoint, with automatic failover, data cross-validation, block-aware caching, and observability across EVM and non-EVM networks.
+* [Smart Router](https://github.com/Magma-Devs/smart-router) ⭐ 16 | 🐛 45 | 🌐 Go | 📅 2026-11-22 - Reliability and security layer for blockchain RPC that orchestrates multiple upstreams behind a single endpoint, with automatic failover, data cross-validation, block-aware caching, and observability across EVM and non-EVM networks.
 * [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
 
 ### C/C++
 
-* [Trust Wallet Core](https://github.com/trustwallet/wallet-core) ⭐ 3,597 | 🐛 217 | 🌐 C++ | 📅 2026-11-19 - Cross-platform, mobile-focused library implementing low-level cryptographic wallet functionality for a high number of blockchains.
+* [Trust Wallet Core](https://github.com/trustwallet/wallet-core) ⭐ 3,598 | 🐛 217 | 🌐 C++ | 📅 2026-11-19 - Cross-platform, mobile-focused library implementing low-level cryptographic wallet functionality for a high number of blockchains.
 * [libethc](https://github.com/mhw0/libethc) ⭐ 72 | 🐛 20 | 🌐 C | 📅 2026-02-18 - Open-source Ethereum library in ANSI C.
 
 ### Rust
 
-* [Reth](https://github.com/paradigmxyz/reth) ⭐ 5,864 | 🐛 282 | 🌐 Rust | 📅 2026-11-21 - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.
+* [Reth](https://github.com/paradigmxyz/reth) ⭐ 5,864 | 🐛 275 | 🌐 Rust | 📅 2026-11-22 - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.
 * [OpenEthereum](https://github.com/openethereum/openethereum) ⚠️ Archived - The fast, light, and robust client for the Ethereum mainnet.
-* [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. ([source code](https://github.com/Scottcjn/rustchain) ⭐ 662 | 🐛 188 | 🌐 Python | 📅 2026-11-19)
+* [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. ([source code](https://github.com/Scottcjn/rustchain) ⭐ 661 | 🐛 188 | 🌐 Python | 📅 2026-11-19)
 * [browser-web3-signer](https://github.com/nikicat/browser-web3-signer) ⭐ 3 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-20 - Sign EVM and TRON transactions and messages with your own browser wallet (MetaMask, Rabby, TronLink) from the CLI or from Rust, TypeScript, and Go programs; the private key never leaves the browser.
 
 ### Shell
@@ -252,9 +252,9 @@
 ### Python
 
 * [web3.py](https://github.com/ethereum/web3.py) ⭐ 5,542 | 🐛 191 | 🌐 Python | 📅 2026-10-30 - Python interface for interacting with the Ethereum blockchain and ecosystem.
-* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,186 | 🐛 650 | 🌐 Python | 📅 2026-11-20 - Contract-oriented, pythonic programming language that targets EVM.
+* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,186 | 🐛 651 | 🌐 Python | 📅 2026-11-20 - Contract-oriented, pythonic programming language that targets EVM.
 * [py-evm](https://github.com/ethereum/py-evm) ⚠️ Archived - Ethereum protocol implementation in Python.
-* [dexscraper](https://github.com/vincentkoc/dexscraper) ⭐ 120 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - Python SDK and CLI for extracting real-time DexScreener market data over WebSocket and API.
+* [dexscraper](https://github.com/vincentkoc/dexscraper) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - Python SDK and CLI for extracting real-time DexScreener market data over WebSocket and API.
 * [py-ethclient](https://github.com/tokamak-network/py-ethclient) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-03-01 - Python Ethereum L1 execution client built from scratch — EVM, RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
 
 ### Dart
@@ -263,7 +263,7 @@
 
 ### VMs
 
-* [evmone](https://github.com/ethereum/evmone) ⭐ 981 | 🐛 195 | 🌐 C++ | 📅 2026-11-20 - C++ implementation of the Ethereum Virtual Machine (EVM), faster.
+* [evmone](https://github.com/ethereum/evmone) ⭐ 981 | 🐛 197 | 🌐 C++ | 📅 2026-11-22 - C++ implementation of the Ethereum Virtual Machine (EVM), faster.
 * [SpacesVM](https://github.com/ava-labs/spacesvm) ⚠️ Archived - SpacesVM enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet.
 
 ### No Code
@@ -297,7 +297,7 @@
 * [prb-test](https://github.com/PaulRBerg/prb-test) ⭐ 182 | 🐛 3 | 🌐 Solidity | 📅 2026-10-09 - Modern collection of testing assertions and logging utilities for Solidity.
 * [mock-contract](https://github.com/gnosis/mock-contract) ⭐ 93 | 🐛 6 | 🌐 JavaScript | 📅 2022-02-21 - Simple Solidity contract to mock dependent contracts in truffle tests.
 * [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) ⭐ 13 | 🐛 14 | 🌐 HTML | 📅 2026-08-10 - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
-* [Hronaut](https://github.com/hronaut/hronaut/blob/main/docs/WALLET_QA_QUICKSTART.md) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20 - Local browser workspace with MCP for human-supervised dApp wallet QA; includes a disposable EVM quickstart for its wallet preview. Source-available, with a 10-day trial and paid ongoing use.
+* [Hronaut](https://github.com/hronaut/hronaut/blob/main/docs/WALLET_QA_QUICKSTART.md) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-22 - Local browser workspace with MCP for human-supervised dApp wallet QA; includes a disposable EVM quickstart for its wallet preview. Source-available, with a 10-day trial and paid ongoing use.
 * [Mock Wallet](https://github.com/ChaituVR/mock-wallet) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-16 - Browser wallet for testing dApps, with many accounts from one seed, WalletConnect v2, EIP-712 signing, watch-only impersonation of any address, and an agent mode that auto-approves requests for end-to-end tests.
 
 ### Code Quality
@@ -308,7 +308,7 @@
 
 ### Database
 
-* [Gun](https://github.com/amark/gun) ⭐ 19,166 | 🐛 316 | 🌐 JavaScript | 📅 2026-11-21 - Small, easy, and fast protocol for syncing data.
+* [Gun](https://github.com/amark/gun) ⭐ 19,167 | 🐛 316 | 🌐 JavaScript | 📅 2026-11-21 - Small, easy, and fast protocol for syncing data.
 * [OrbitDB](https://github.com/orbitdb/orbit-db) ⭐ 8,824 | 🐛 28 | 🌐 JavaScript | 📅 2026-05-14 - Serverless, distributed, peer-to-peer database.
 * [DB3](https://github.com/dbpunk-labs/db3) ⭐ 385 | 🐛 37 | 🌐 Rust | 📅 2024-07-29 - DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
 * [WeaveDB](https://github.com/weavedb/weavedb) ⭐ 208 | 🐛 12 | 🌐 JavaScript | 📅 2026-06-26 - WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.
@@ -336,7 +336,7 @@
 ### Risk Management
 
 * [Slither](https://github.com/crytic/slither) ⭐ 6,421 | 🐛 522 | 🌐 Python | 📅 2026-11-18 - A Solidity static analysis framework.
-* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,278 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool.
+* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,279 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool.
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on smart contracts and binaries.
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,524 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns.
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived - Alternative static smart contract security analysis.
@@ -411,23 +411,23 @@
 
 ## Open Source Project
 
-* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,779 | 🐛 876 | 🌐 C++ | 📅 2026-11-20 - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
-* [fabric](https://github.com/hyperledger/fabric) ⭐ 16,783 | 🐛 233 | 🌐 Go | 📅 2026-11-21 - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
+* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,780 | 🐛 877 | 🌐 C++ | 📅 2026-11-20 - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
+* [fabric](https://github.com/hyperledger/fabric) ⭐ 16,784 | 🐛 230 | 🌐 Go | 📅 2026-11-22 - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
 * [Solana](https://github.com/solana-labs/solana) ⚠️ Archived - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-* [MetaMask](https://github.com/MetaMask/metamask-extension) ⭐ 13,272 | 🐛 2,953 | 🌐 TypeScript | 📅 2026-11-22 - Browser extension of MetaMask crypto wallet.
-* [Chainlink](https://github.com/smartcontractkit/chainlink) ⭐ 8,249 | 🐛 206 | 🌐 Go | 📅 2026-11-20 - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,780 | 🐛 165 | 🌐 Elixir | 📅 2026-11-20 - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
-* [Rainbow](https://github.com/rainbow-me/rainbow) ⭐ 4,403 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-21 - Open source Ethereum wallet.
-* [Neo](https://github.com/neo-project/neo) ⭐ 3,539 | 🐛 255 | 🌐 C# | 📅 2026-11-21 - Neo is blockchain platform that is open-source and community-driven.
-* [Remix](https://github.com/ethereum/remix-project) ⭐ 3,112 | 🐛 939 | 🌐 TypeScript | 📅 2026-11-20 - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
-* [Rabby](https://github.com/RabbyHub/Rabby) ⭐ 1,940 | 🐛 174 | 🌐 TypeScript | 📅 2026-11-20 - Browser extension crypto wallet for the DeFi ecosystem that works multi-chain.
-* [web3swift](https://github.com/web3swift-team/web3swift) ⭐ 888 | 🐛 80 | 🌐 JavaScript | 📅 2025-09-24 - web3swift is iOS toolbelt for interaction with the Ethereum network.
+* [MetaMask](https://github.com/MetaMask/metamask-extension) ⭐ 13,277 | 🐛 2,955 | 🌐 TypeScript | 📅 2026-11-23 - Browser extension of MetaMask crypto wallet.
+* [Chainlink](https://github.com/smartcontractkit/chainlink) ⭐ 8,250 | 🐛 205 | 🌐 Go | 📅 2026-11-23 - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,783 | 🐛 165 | 🌐 Elixir | 📅 2026-11-20 - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
+* [Rainbow](https://github.com/rainbow-me/rainbow) ⭐ 4,403 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-22 - Open source Ethereum wallet.
+* [Neo](https://github.com/neo-project/neo) ⭐ 3,539 | 🐛 255 | 🌐 C# | 📅 2026-11-22 - Neo is blockchain platform that is open-source and community-driven.
+* [Remix](https://github.com/ethereum/remix-project) ⭐ 3,112 | 🐛 939 | 🌐 TypeScript | 📅 2026-11-22 - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
+* [Rabby](https://github.com/RabbyHub/Rabby) ⭐ 1,941 | 🐛 174 | 🌐 TypeScript | 📅 2026-11-20 - Browser extension crypto wallet for the DeFi ecosystem that works multi-chain.
+* [web3swift](https://github.com/web3swift-team/web3swift) ⭐ 889 | 🐛 80 | 🌐 JavaScript | 📅 2025-09-24 - web3swift is iOS toolbelt for interaction with the Ethereum network.
 * [Ethora](https://github.com/dappros/ethora) ⭐ 552 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-18 - Ethora is a low code web3 'super app' engine featuring social sign on, chat, bots, gamification, digital wallet, documents sharing etc. It is easy to customize and build your own app based on Ethora engine.
 * [Ambire Wallet](https://github.com/AmbireTech/wallet) ⭐ 245 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-02 - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
 * [Vocdoni](https://github.com/vocdoni/vocdoni-node) ⭐ 93 | 🐛 72 | 🌐 Go | 📅 2026-11-14 - Decentralized voting protocol with an AGPL-3.0 Go implementation for verifiable organizational elections.
 * [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) ⭐ 55 | 🐛 38 | 🌐 Svelte | 📅 2026-11-19 - Private messaging application on Kryptokrona Blockchain for desktop.
 * [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) ⚠️ Archived - Private messaging application on Kryptokrona Blockchain for mobile.
-* [Vultisig](https://github.com/vultisig/vultisig-windows) ⭐ 22 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-21 - Seedless self-custodial multi-chain wallet secured by MPC threshold signatures; this repo builds the Vultisig desktop app and the Chrome extension.
+* [Vultisig](https://github.com/vultisig/vultisig-windows) ⭐ 22 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-22 - Seedless self-custodial multi-chain wallet secured by MPC threshold signatures; this repo builds the Vultisig desktop app and the Chrome extension.
 * [Mybucks.online](https://github.com/mybucks-online/app) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-17 - Open-source, browser-based and self-custodial wallet that generates a private key from credentials using one-way hash function.
 * [Arb-Inc All-in-Dex](https://github.com/Lukecele/Arb-Inc-All-in-Dex) ⭐ 8 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-18 - Production-ready decentralized exchange aggregator, cross-chain bridge, and real-yield engine on BNB Smart Chain.
 * [Oath Wallet](https://github.com/devdasx/oath-wallet) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-11-16 - Native multichain wallet for iPhone and iPad with WalletConnect support.
@@ -450,7 +450,7 @@
 
 ## Tutorial
 
-* [Build a blockchain from scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) ⭐ 555 | 🐛 0 | 🌐 Go | 📅 2025-08-17 - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC
+* [Build a blockchain from scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) ⭐ 556 | 🐛 0 | 🌐 Go | 📅 2025-08-17 - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC
 * Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1) ⚠️ Archived
 * [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 * [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
@@ -512,7 +512,7 @@
 
 ## Book
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,548 | 🐛 1 | 📅 2026-10-12
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,549 | 🐛 1 | 📅 2026-10-12
 * [Token Economy Book](https://github.com/sherminvo/TokenEconomyBook/wiki) ⭐ 812 | 🐛 3 | 📅 2025-05-17
 * [Ethereum development with Go](https://goethereumbook.org/en)
 * [The Book of Swarm](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
@@ -576,4 +576,4 @@ Please star this repo to show your support ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
